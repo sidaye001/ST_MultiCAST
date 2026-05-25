@@ -1,0 +1,145 @@
+Program,Gene,Gene_display,Loading,Abs_loading,Direction,Is_putative_TF,Functional_category,Annotation_text
+CPVAE1,N900_RS15695,N900_RS15695,15.29209,15.29209,Positive,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0361 | 100.0
+CPVAE1,N900_RS09770,yqcC,15.065839,15.065839,Positive,False,Other/unknown,yqcC | yqcC |  |  |  |  |  |  | VC_0887 | 100.0
+CPVAE1,N900_RS09985,acfC,14.207258,14.207258,Positive,False,Other/unknown,acfC | acfC |  |  |  |  |  |  |  | 
+CPVAE1,N900_RS15245,N900_RS15245,14.136514,14.136514,Positive,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0265 | 100.0
+CPVAE1,N900_RS10660,trpR,14.031635,14.031635,Positive,False,Other/unknown,trpR | trpR | trpR | trpR |  |  |  |  | VC_0701 | 99.2
+CPVAE1,N900_RS00925,gspJ,13.970476,13.970476,Positive,False,Other/unknown,gspJ | gspJ | epsJ | epsJ |  |  |  |  | VC_2727 | 100.0
+CPVAE1,N900_RS00185,N900_RS00185,13.521859,13.521859,Positive,False,Other/unknown, |  |  |  |  |  |  |  | VC_0038 | 100.0
+CPVAE1,N900_RS11695,can,12.806696,12.806696,Positive,False,Metabolism/transport,can | can |  |  | carbonate dehydratase |  |  |  | VC_0586 | 100.0
+CPVAE1,N900_RS18090,N900_RS18090,12.771889,12.771889,Positive,False,Other/unknown, |  |  |  | DUF406 family protein |  |  | UPF0381 protein YiiS | VC_A0919 | 100.0
+CPVAE1,N900_RS04890,methyl-accepting chemotaxis protein_3,12.658517,12.658517,Positive,False,Motility/chemotaxis,methyl-accepting chemotaxis protein_3 | methyl-accepting chemotaxis protein_3 |  |  | methyl-accepting chemotaxis protein |  |  |  | VC_1898 | 100.0
+CPVAE1,N900_RS06010,ybhS,12.59856,12.59856,Positive,False,Metabolism/transport,ybhS | ybhS |  |  | ABC transporter permease |  |  |  | VC_1608 | 23.5
+CPVAE1,N900_RS10105,IS481-like element ISVch1 family transposase,12.488526,12.488526,Positive,False,Other/unknown,IS481-like element ISVch1 family transposase | IS481-like element ISVch1 family transposase |  |  | IS481-like element ISVch1 family transposase |  |  |  | VC_0817 | 100.0
+CPVAE1,N900_RS14210,N900_RS14210,-14.2930355,14.2930355,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0039 | 99.3
+CPVAE1,N900_RS03960,Nif3-like dinuclear metal center hexameric protein,-14.136044,14.136044,Negative,False,Other/unknown,Nif3-like dinuclear metal center hexameric protein | Nif3-like dinuclear metal center hexameric protein |  |  | Nif3-like dinuclear metal center hexameric protein |  |  |  | VC_2093 | 100.0
+CPVAE1,N900_RS00370,N900_RS00370,-13.894272,13.894272,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_0070 | 100.0
+CPVAE1,N900_RS13780,tadA_2,-13.3406,13.3406,Negative,False,Other/unknown,tadA_2 | tadA_2 |  |  | deoxycytidylate deaminase |  |  |  | VC_0175 | 99.8
+CPVAE1,N900_RS18565,N900_RS18565,-13.294039,13.294039,Negative,False,Other/unknown, |  |  |  | DUF3081 domain-containing protein |  |  |  | VC_A1024 | 100.0
+CPVAE1,N900_RS18430,grxB,-13.192932,13.192932,Negative,False,Other/unknown,grxB | grxB |  |  |  |  |  |  | VC_A0992 | 100.0
+CPVAE1,N900_RS02325,ygiF,-12.969554,12.969554,Negative,False,Other/unknown,ygiF | ygiF |  |  | inorganic triphosphatase |  |  |  | VC_2440 | 100.0
+CPVAE1,N900_RS12985,TetR/AcrR family transcriptional regulator_1,-12.912288,12.912288,Negative,True,TF/regulator,TetR/AcrR family transcriptional regulator_1 | TetR/AcrR family transcriptional regulator_1 |  |  | TetR/AcrR family transcriptional regulator |  |  |  | VC_0333 | 99.6
+CPVAE1,N900_RS12100,N900_RS12100,-12.892559,12.892559,Negative,False,Other/unknown, |  |  |  | inovirus Gp2 family protein |  |  |  | VC_0494 | 100.0
+CPVAE1,N900_RS12560,MSHA pilin protein MshB,-12.734767,12.734767,Negative,False,Other/unknown,MSHA pilin protein MshB | MSHA pilin protein MshB |  |  | prepilin-type N-terminal cleavage/methylation domain-containing protein |  | MSHA pilin protein MshB |  | VC_0408 | 100.0
+CPVAE1,N900_RS08860,chitinase_1,-12.625813,12.625813,Negative,False,Other/unknown,chitinase_1 | chitinase_1 |  |  | chitinase |  |  |  | VC_1073 | 99.9
+CPVAE1,N900_RS11210,umuD,-12.524048,12.524048,Negative,False,Other/unknown,umuD | umuD | lexA | lexA |  |  |  |  | VC_0092 | 35.3
+CPVAE2,N900_RS03495,flgJ,14.884407,14.884407,Positive,False,Motility/chemotaxis,flgJ | flgJ | flgJ | flgJ |  |  |  |  | VC_2192 | 100.0
+CPVAE2,N900_RS14740,mrpE,13.510419,13.510419,Positive,False,Other/unknown,mrpE | mrpE |  |  | sodium:proton antiporter |  |  |  | VC_A0154 | 100.0
+CPVAE2,N900_RS15780,N900_RS15780,12.307222,12.307222,Positive,False,Other/unknown, |  |  |  | DUF645 family protein |  |  |  | VC_A0381 | 98.3
+CPVAE2,N900_RS12715,TIGR04219 family outer membrane beta-barrel protein,12.30075,12.30075,Positive,False,Other/unknown,TIGR04219 family outer membrane beta-barrel protein | TIGR04219 family outer membrane beta-barrel protein |  |  | TIGR04219 family outer membrane beta-barrel protein |  |  |  | VC_0381 | 100.0
+CPVAE2,N900_RS06190,oprF,11.326092,11.326092,Positive,False,Other/unknown,oprF | oprF |  |  | OmpA family protein |  |  |  | VC_1622 | 100.0
+CPVAE2,N900_RS03470,flgE,11.175571,11.175571,Positive,False,Motility/chemotaxis,flgE | flgE |  |  |  |  |  |  | VC_2197 | 100.0
+CPVAE2,N900_RS11320,DNA mismatch repair protein,11.058931,11.058931,Positive,False,Other/unknown,DNA mismatch repair protein | DNA mismatch repair protein | mutL | mutL | DNA mismatch repair protein |  |  |  | VC_0345 | 34.8
+CPVAE2,N900_RS03515,flaA,10.719237,10.719237,Positive,False,Motility/chemotaxis,flaA | flaA | flaA | flaA | flagellin |  |  |  | VC_2188 | 100.0
+CPVAE2,N900_RS08580,tet(35),10.679447,10.679447,Positive,False,Other/unknown,tet(35) | tet(35) |  |  | Na+/H+ antiporter NhaC family protein |  |  |  | VC_1131 | 100.0
+CPVAE2,N900_RS04275,N900_RS04275,10.596732,10.596732,Positive,False,Other/unknown, |  |  |  |  |  |  |  | VC_2373 | 34.2
+CPVAE2,N900_RS12320,mltC,10.463955,10.463955,Positive,False,Other/unknown,mltC | mltC |  |  |  |  |  |  | VC_0450 | 100.0
+CPVAE2,N900_RS10960,N900_RS10960,10.394029,10.394029,Positive,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0025 | 40.9
+CPVAE2,N900_RS12475,N900_RS12475,-19.87099,19.87099,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_0425 | 100.0
+CPVAE2,N900_RS14990,N900_RS14990,-19.522789,19.522789,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0209 | 98.3
+CPVAE2,N900_RS02840,ZntB,-19.517796,19.517796,Negative,False,Metabolism/transport,ZntB | ZntB |  |  | zinc transporter ZntB |  |  |  | VC_2334 | 99.7
+CPVAE2,N900_RS03445,chev_3,-19.334307,19.334307,Negative,False,Motility/chemotaxis,chev_3 | chev_3 |  |  | chemotaxis protein CheV |  |  |  | VC_2202 | 100.0
+CPVAE2,N900_RS05355,ATPase AAA,-19.1098,19.1098,Negative,False,Metabolism/transport,ATPase AAA | ATPase AAA |  |  | AAA family ATPase |  |  |  | VC_1798 | 100.0
+CPVAE2,N900_RS16620,rnk,-18.89866,18.89866,Negative,True,TF/regulator,rnk | rnk |  |  | nucleoside diphosphate kinase regulator |  |  |  | VC_A0607 | 100.0
+CPVAE2,N900_RS02945,ompK,-18.740889,18.740889,Negative,False,Other/unknown,ompK | ompK |  |  | membrane protein |  |  |  | VC_2305 | 100.0
+CPVAE2,N900_RS08080,sbcB,-18.511822,18.511822,Negative,False,Other/unknown,sbcB | sbcB |  |  |  |  |  |  | VC_1234 | 100.0
+CPVAE2,N900_RS10810,mutH,-18.43442,18.43442,Negative,False,Other/unknown,mutH | mutH | mutH | mutH |  |  |  |  | VC_0668 | 99.5
+CPVAE2,N900_RS00980,yhgF,-18.427074,18.427074,Negative,False,TF/regulator,yhgF | yhgF |  |  | RNA-binding transcriptional accessory protein |  |  |  | VC_2716 | 100.0
+CPVAE2,N900_RS04235,sensor histidine kinase_2,-18.414774,18.414774,Negative,False,Metabolism/transport,sensor histidine kinase_2 | sensor histidine kinase_2 |  |  | Hpt domain-containing protein |  |  |  | VC_2038 | 100.0
+CPVAE2,N900_RS08870,phosphatase,-18.413828,18.413828,Negative,False,Other/unknown,phosphatase | phosphatase |  |  | phosphatase |  |  |  | VC_1070 | 100.0
+CPVAE3,N900_RS11175,brxC,19.464888,19.464888,Positive,False,Other/unknown,brxC | brxC | rtxA | rtxA; rtx |  |  |  |  | VC_1451 | 30.8
+CPVAE3,N900_RS17710,yhfA,19.410343,19.410343,Positive,False,Other/unknown,yhfA | yhfA |  |  | OsmC family protein |  |  |  | VC_A0838 | 100.0
+CPVAE3,N900_RS06750,formate dehydrogenase subunit gamma,18.977919,18.977919,Positive,False,Metabolism/transport,formate dehydrogenase subunit gamma | formate dehydrogenase subunit gamma |  |  | formate dehydrogenase subunit gamma |  |  |  | VC_1511 | 99.7
+CPVAE3,N900_RS10955,primase,18.823341,18.823341,Positive,False,Other/unknown,primase | primase |  |  | primase |  |  |  | VC_A0299 | 40.9
+CPVAE3,N900_RS01460,cfxP,18.80369,18.80369,Positive,False,Metabolism/transport,cfxP | cfxP |  |  | phosphoribulokinase |  |  |  | VC_2613 | 100.0
+CPVAE3,N900_RS17180,DNA recombination protein RecF,18.56921,18.56921,Positive,False,Metabolism/transport,DNA recombination protein RecF | DNA recombination protein RecF |  |  | AAA family ATPase |  |  |  | VC_A0728 | 99.9
+CPVAE3,N900_RS14935,N900_RS14935,18.565348,18.565348,Positive,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0196 | 99.2
+CPVAE3,N900_RS13750,dncV,18.419382,18.419382,Positive,False,Other/unknown,dncV | dncV | dncV | dncV |  |  |  |  | VC_0179 | 99.8
+CPVAE3,N900_RS10565,rdgC,18.391365,18.391365,Positive,False,Other/unknown,rdgC | rdgC | rdgC | rdgC |  |  |  |  | VC_0718 | 100.0
+CPVAE3,N900_RS07740,ycjx,18.202702,18.202702,Positive,False,Other/unknown,ycjx | ycjx |  |  | YcjX family protein |  |  |  | VC_1306 | 100.0
+CPVAE3,N900_RS10705,anmK,18.120213,18.120213,Positive,False,Metabolism/transport,anmK | anmK | anmK | anmK | anhydro-N-acetylmuramic acid kinase |  |  |  | VC_0691 | 100.0
+CPVAE3,N900_RS01780,tamb,18.043488,18.043488,Positive,False,Other/unknown,tamb | tamb |  |  | translocation/assembly module TamB |  |  |  | VC_2547 | 100.0
+CPVAE3,N900_RS12285,N900_RS12285,-9.255214,9.255214,Negative,False,Other/unknown, |  |  |  | DUF4426 domain-containing protein |  |  |  | VC_0457 | 100.0
+CPVAE3,N900_RS03430,flgN,-9.229362,9.229362,Negative,False,Motility/chemotaxis,flgN | flgN |  |  | molecular chaperone |  |  |  | VC_2205 | 99.3
+CPVAE3,N900_RS16775,Probable transporter XF_0766_BLAST,-9.091452,9.091452,Negative,False,Metabolism/transport,Probable transporter XF_0766_BLAST | Probable transporter XF_0766_BLAST |  |  | YeeE/YedE family protein |  |  | Probable transporter XF_0766 | VC_A0641 | 100.0
+CPVAE3,N900_RS06650,N900_RS06650,-9.055803,9.055803,Negative,False,Other/unknown, |  |  |  | DUF2960 domain-containing protein |  |  |  | VC_1531 | 100.0
+CPVAE3,N900_RS19305,N900_RS19305,-8.720703,8.720703,Negative,False,Other/unknown, |  | malK | malK |  |  |  |  | VC_A0946 | 38.9
+CPVAE3,N900_RS04065,sixA,-8.5000105,8.5000105,Negative,False,Other/unknown,sixA | sixA |  |  |  |  |  |  | VC_2070 | 99.4
+CPVAE3,N900_RS15500,N900_RS15500,-7.951887,7.951887,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0322 | 99.3
+CPVAE3,N900_RS11735,sspB,-7.8105,7.8105,Negative,False,Other/unknown,sspB | sspB |  |  |  |  |  |  | VC_0577 | 100.0
+CPVAE3,N900_RS11625,N900_RS11625,-7.312292,7.312292,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_0603 | 99.9
+CPVAE3,N900_RS10195,citE,-7.1717944,7.1717944,Negative,False,Other/unknown,citE | citE |  |  |  |  |  |  | VC_0798 | 99.3
+CPVAE3,N900_RS08150,N900_RS08150,-7.156665,7.156665,Negative,False,Other/unknown, |  |  |  | GGDEF domain-containing protein |  |  | Bifunctional diguanylate cyclase/cyclic di-GMP phosphodiesterase MucR | VC_1216 | 100.0
+CPVAE3,N900_RS19685,N900_RS19685,-6.2729535,6.2729535,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0838 | 42.9
+CPVAE4,N900_RS16590,putative 2-aminoethylphosphonate ABC transporter permease subunit,18.667625,18.667625,Positive,False,Metabolism/transport,putative 2-aminoethylphosphonate ABC transporter permease subunit | putative 2-aminoethylphosphonate ABC transporter permease subunit |  |  | putative 2-aminoethylphosphonate ABC transporter permease subunit |  |  |  | VC_A0601 | 99.8
+CPVAE4,N900_RS08435,gonadoliberin III,18.55454,18.55454,Positive,False,Other/unknown,gonadoliberin III | gonadoliberin III |  |  | gonadoliberin III |  |  |  | VC_1161 | 100.0
+CPVAE4,N900_RS06095,N900_RS06095,17.724216,17.724216,Positive,False,Other/unknown, |  |  |  |  |  |  |  | VC_1642 | 100.0
+CPVAE4,N900_RS08880,arsR1,17.54872,17.54872,Positive,False,TF/regulator,arsR1 | arsR1 |  |  | metalloregulator ArsR/SmtB family transcription factor |  |  |  | VC_1068 | 100.0
+CPVAE4,N900_RS07450,N900_RS07450,17.543842,17.543842,Positive,False,Other/unknown, |  |  |  | GGDEF domain-containing protein |  |  |  | VC_1367 | 99.8
+CPVAE4,N900_RS10920,dfrA1,17.228252,17.228252,Positive,False,Other/unknown,dfrA1 | dfrA1 |  |  | trimethoprim-resistant dihydrofolate reductase DfrA1 |  |  |  | VC_0440 | 28.0
+CPVAE4,N900_RS15120,phosphoribosyl-AMP cyclohydrolase,17.16585,17.16585,Positive,False,Other/unknown,phosphoribosyl-AMP cyclohydrolase | phosphoribosyl-AMP cyclohydrolase |  |  | phosphoribosyl-AMP cyclohydrolase |  |  |  | VC_A0237 | 100.0
+CPVAE4,N900_RS02365,yqiA,17.114058,17.114058,Positive,False,Other/unknown,yqiA | yqiA |  |  |  |  |  |  | VC_2432 | 100.0
+CPVAE4,N900_RS08705,dusC,17.064995,17.064995,Positive,False,Other/unknown,dusC | dusC | dusC | dusC |  |  |  |  | VC_1105 | 100.0
+CPVAE4,N900_RS05080,rsmS,17.031975,17.031975,Positive,False,Other/unknown,rsmS | rsmS |  |  | DUF2496 domain-containing protein |  |  |  | VC_1858 | 100.0
+CPVAE4,N900_RS17725,glyceraldehyde-3-phosphate dehydrogenase,16.994032,16.994032,Positive,False,Metabolism/transport,glyceraldehyde-3-phosphate dehydrogenase | glyceraldehyde-3-phosphate dehydrogenase |  |  | glyceraldehyde-3-phosphate dehydrogenase |  |  |  | VC_A0843 | 99.8
+CPVAE4,N900_RS19450,N900_RS19450,16.87484,16.87484,Positive,False,Other/unknown, |  |  |  | DUF3709 domain-containing protein |  |  |  | VC_A0325 | 94.8
+CPVAE4,N900_RS11115,traL,-11.743233,11.743233,Negative,False,Other/unknown,traL | traL |  |  |  |  |  |  | VC_1286 | 35.3
+CPVAE4,N900_RS13955,ydhC_1,-10.452011,10.452011,Negative,False,Metabolism/transport,ydhC_1 | ydhC_1 |  |  | Bcr/CflA family multidrug efflux MFS transporter |  |  |  | VC_2761 | 100.0
+CPVAE4,N900_RS19610,Pseudogene_N900_RS19610,-10.4341955,10.4341955,Negative,False,Other/unknown,Pseudogene_N900_RS19610 | Pseudogene_N900_RS19610 |  |  |  |  |  |  |  | 
+CPVAE4,N900_RS06450,membrane protein_7,-10.282797,10.282797,Negative,False,Other/unknown,membrane protein_7 | membrane protein_7 |  |  | DMT family protein |  |  |  | VC_1574 | 99.2
+CPVAE4,N900_RS16075,N-acetyltransferase_5,-9.801337,9.801337,Negative,False,Other/unknown,N-acetyltransferase_5 | N-acetyltransferase_5 |  |  | GNAT family N-acetyltransferase |  |  |  | VC_A0487 | 99.4
+CPVAE4,N900_RS00400,uspA_1,-9.790833,9.790833,Negative,False,Other/unknown,uspA_1 | uspA_1 |  |  |  |  |  |  | VC_0076 | 100.0
+CPVAE4,N900_RS16275,tata,-9.752936,9.752936,Negative,False,Other/unknown,tata | tata | tatA | tatA | twin-arginine translocase TatA/TatE family subunit |  |  |  | VC_A0533 | 100.0
+CPVAE4,N900_RS13645,fhuD,-9.648684,9.648684,Negative,False,Metabolism/transport,fhuD | fhuD |  |  | iron-siderophore ABC transporter substrate-binding protein |  |  |  | VC_0202 | 100.0
+CPVAE4,N900_RS08810,CheC,-9.517741,9.517741,Negative,False,Motility/chemotaxis,CheC | CheC |  |  | chemotaxis protein CheC |  |  |  | VC_1083 | 100.0
+CPVAE4,N900_RS07825,mdoG,-9.157976,9.157976,Negative,False,Other/unknown,mdoG | mdoG | opgG | opgG | glucan biosynthesis protein |  |  |  | VC_1288 | 100.0
+CPVAE4,N900_RS17480,dnaj,-8.505621,8.505621,Negative,False,Other/unknown,dnaj | dnaj |  |  | DnaJ domain-containing protein |  |  |  | VC_A0788 | 100.0
+CPVAE4,N900_RS13220,dusB,-8.288368,8.288368,Negative,False,Other/unknown,dusB | dusB | dusB | dusB |  |  |  |  | VC_0291 | 99.7
+CPVAE5,N900_RS10455,secF_1,18.418484,18.418484,Positive,False,Other/unknown,secF_1 | secF_1 | secF | secF |  |  |  |  | VC_0744 | 100.0
+CPVAE5,N900_RS18755,speF,18.34636,18.34636,Positive,False,Other/unknown,speF | speF |  |  |  |  |  |  | VC_A1063 | 100.0
+CPVAE5,N900_RS04595,N900_RS04595,18.178032,18.178032,Positive,False,Other/unknown, |  |  |  | DUF1244 domain-containing protein |  |  |  | VC_1963 | 100.0
+CPVAE5,N900_RS17175,cobQ,18.152737,18.152737,Positive,False,Metabolism/transport,cobQ | cobQ | cobQ | cobQ | cobyric acid synthase |  |  |  | VC_A0727 | 100.0
+CPVAE5,N900_RS18145,yedI,17.781143,17.781143,Positive,False,Other/unknown,yedI | yedI |  |  | DUF808 domain-containing protein |  |  |  | VC_A0930 | 100.0
+CPVAE5,N900_RS07515,diguanylate cyclase_1,17.552834,17.552834,Positive,False,Other/unknown,diguanylate cyclase_1 | diguanylate cyclase_1 |  |  | diguanylate cyclase |  |  |  | VC_1353 | 100.0
+CPVAE5,N900_RS19930,Pseudogene_N900_RS19930,17.291046,17.291046,Positive,False,Other/unknown,Pseudogene_N900_RS19930 | Pseudogene_N900_RS19930 |  |  | DUF3709 domain-containing protein |  |  |  |  | 
+CPVAE5,N900_RS01980,rapA,17.287819,17.287819,Positive,False,Other/unknown,rapA | rapA | rapA | rapA; hepA |  |  |  |  | VC_2506 | 100.0
+CPVAE5,N900_RS08720,ABC transporter permease_5,17.281109,17.281109,Positive,False,Metabolism/transport,ABC transporter permease_5 | ABC transporter permease_5 |  |  | ABC transporter permease |  |  |  | VC_1102 | 99.7
+CPVAE5,N900_RS06290,dpiB,17.127464,17.127464,Positive,False,Metabolism/transport,dpiB | dpiB |  |  | sensor histidine kinase |  |  |  | VC_1605 | 100.0
+CPVAE5,N900_RS04750,dctM_1,17.025322,17.025322,Positive,False,Metabolism/transport,dctM_1 | dctM_1 | dctM | dctM | TRAP transporter large permease |  |  |  | VC_1927 | 100.0
+CPVAE5,N900_RS07035,zot,16.862076,16.862076,Positive,False,Other/unknown,zot | zot | zot | zot | zot |  |  |  | VC_1458 | 100.0
+CPVAE5,N900_RS14350,pstA_2,-11.326284,11.326284,Negative,False,Other/unknown,pstA_2 | pstA_2 |  |  |  |  |  |  | VC_A0072 | 100.0
+CPVAE5,N900_RS15445,N900_RS15445,-11.085397,11.085397,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0310 | 100.0
+CPVAE5,N900_RS03475,flgF,-10.63066,10.63066,Negative,False,Motility/chemotaxis,flgF | flgF |  |  |  |  |  |  | VC_2196 | 100.0
+CPVAE5,N900_RS13765,vspR,-10.053814,10.053814,Negative,False,Other/unknown,vspR | vspR | vspR | vspR |  |  |  |  | VC_0177 | 100.0
+CPVAE5,N900_RS03740,fliD,-9.541549,9.541549,Negative,False,Motility/chemotaxis,fliD | fliD | fliD | fliD |  |  |  |  | VC_2140 | 99.8
+CPVAE5,N900_RS15705,N900_RS15705,-9.480541,9.480541,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_A0363 | 100.0
+CPVAE5,N900_RS07685,N900_RS07685,-9.3272085,9.3272085,Negative,False,Other/unknown, |  |  |  | DUF535 domain-containing protein |  |  |  | VC_1317 | 100.0
+CPVAE5,N900_RS03815,fliN,-9.32387,9.32387,Negative,False,Motility/chemotaxis,fliN | fliN |  |  |  |  |  |  | VC_2125 | 100.0
+CPVAE5,N900_RS18745,ribB,-9.042178,9.042178,Negative,False,Metabolism/transport,"ribB | ribB | ribB | ribB | 3,4-dihydroxy-2-butanone-4-phosphate synthase |  |  |  | VC_A1060 | 100.0"
+CPVAE5,N900_RS09745,pomA,-8.928477,8.928477,Negative,False,Other/unknown,pomA | pomA |  |  |  |  |  |  | VC_0892 | 100.0
+CPVAE5,N900_RS03840,flhB,-8.549007,8.549007,Negative,False,Other/unknown,flhB | flhB | flhB | flhB |  |  |  |  | VC_2120 | 99.7
+CPVAE5,N900_RS03835,fliR,-8.38258,8.38258,Negative,False,Motility/chemotaxis,fliR | fliR |  |  |  |  |  |  | VC_2121 | 100.0
+CPVAE6,N900_RS09205,purF,15.980832,15.980832,Positive,False,Other/unknown,purF | purF | purF | purF |  |  |  |  | VC_1004 | 100.0
+CPVAE6,N900_RS13300,purH,15.885577,15.885577,Positive,False,Other/unknown,purH | purH | purH | purH |  |  |  |  | VC_0276 | 100.0
+CPVAE6,N900_RS00255,purE,15.692818,15.692818,Positive,False,Other/unknown,purE | purE | purE | purE |  |  |  |  | VC_0052 | 100.0
+CPVAE6,N900_RS14945,DNA cytosine methyltransferase,15.195374,15.195374,Positive,False,Other/unknown,DNA cytosine methyltransferase | DNA cytosine methyltransferase |  |  | DNA cytosine methyltransferase |  |  |  | VC_A0198 | 99.7
+CPVAE6,N900_RS10000,toxT,14.45953,14.45953,Positive,False,Other/unknown,toxT | toxT |  |  |  |  |  |  |  | 
+CPVAE6,N900_RS00570,N900_RS00570,14.263229,14.263229,Positive,False,Other/unknown, |  |  |  | DUF2489 domain-containing protein |  |  |  | VC_0115 | 99.4
+CPVAE6,N900_RS09210,cvpA,14.176512,14.176512,Positive,False,Other/unknown,cvpA | cvpA |  |  | bacteriocin production protein |  |  |  | VC_1003 | 100.0
+CPVAE6,N900_RS13410,wbeM,14.022839,14.022839,Positive,False,Metabolism/transport,wbeM | iron-containing alcohol dehydrogenase_2 |  |  | iron-containing alcohol dehydrogenase |  |  |  | VC_0250 | 100.0
+CPVAE6,N900_RS10015,tcpT,13.818012,13.818012,Positive,False,Virulence/colonization,tcpT | tcpT | tcpT | tcpT |  |  |  |  | VC_0835 | 100.0
+CPVAE6,N900_RS10060,tcpP,13.805619,13.805619,Positive,False,Virulence/colonization,tcpP | tcpP | tcpP | tcpP |  |  |  |  | VC_0826 | 100.0
+CPVAE6,N900_RS09545,N900_RS09545,13.682134,13.682134,Positive,False,Other/unknown, |  |  |  | O-antigen ligase family protein |  |  |  | VC_0931 | 100.0
+CPVAE6,N900_RS00620,lysA,13.67714,13.67714,Positive,False,Other/unknown,lysA | lysA | lysA | lysA |  |  |  |  | VC_0125 | 99.8
+CPVAE6,N900_RS11090,N900_RS11090,-13.654466,13.654466,Negative,False,Other/unknown, |  |  |  |  |  |  |  | VC_0914 | 31.6
+CPVAE6,N900_RS00575,hemN,-13.429087,13.429087,Negative,False,Other/unknown,hemN | hemN |  |  |  |  |  |  | VC_0116 | 100.0
+CPVAE6,N900_RS01765,ytfj,-13.244842,13.244842,Negative,False,Other/unknown,ytfj | ytfj |  |  | YtfJ family protein |  |  |  | VC_2550 | 100.0
+CPVAE6,N900_RS02130,serA,-12.910033,12.910033,Negative,False,Other/unknown,serA | serA |  |  |  |  |  |  | VC_2481 | 100.0
+CPVAE6,N900_RS10305,dhbA,-12.890638,12.890638,Negative,False,Metabolism/transport,"dhbA | dhbA | vibA | vibA | 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase |  |  |  | VC_0774 | 100.0"
+CPVAE6,N900_RS17225,luxp,-12.788597,12.788597,Negative,False,Stress/envelope,luxp | luxp | luxP | luxP | autoinducer 2-binding periplasmic protein LuxP |  |  |  | VC_A0737 | 100.0
+CPVAE6,N900_RS10635,raiA,-12.767286,12.767286,Negative,False,Other/unknown,raiA | raiA |  |  |  |  |  |  | VC_0706 | 100.0
+CPVAE6,N900_RS16240,clcA,-12.621156,12.621156,Negative,False,Other/unknown,clcA | clcA | clcA | clcA |  |  |  |  | VC_A0526 | 100.0
+CPVAE6,N900_RS00470,dinF,-12.457589,12.457589,Negative,False,Other/unknown,dinF | dinF |  |  |  |  |  |  | VC_0090 | 99.8
+CPVAE6,N900_RS16415,pntA,-12.410304,12.410304,Negative,False,Other/unknown,pntA | pntA |  |  | Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha |  |  |  | VC_A0563 | 100.0
+CPVAE6,N900_RS07425,N900_RS07425,-12.326727,12.326727,Negative,False,Other/unknown, |  |  |  | GGDEF domain-containing protein |  |  |  | VC_1372 | 99.7
+CPVAE6,N900_RS11270,N900_RS11270,-12.318796,12.318796,Negative,False,Other/unknown, |  |  |  | DUF3363 domain-containing protein |  |  |  | VC_A0093 | 35.6

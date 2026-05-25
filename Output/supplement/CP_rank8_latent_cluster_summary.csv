@@ -1,0 +1,3 @@
+CP_cluster,n_genes,strongest_defect_time_mode,strongest_defect_space_mode,mean_fitness_mean,min_fitness_mean,dynamic_range_mean
+0,2070,6h,st,0.8294941202444782,-0.8728349292974878,4.976067023017295
+1,1124,6h,SI1,0.26944495206122865,-1.7187818126185053,5.6915316337928825

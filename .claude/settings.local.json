@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import json; nb = json.load\\(open\\('/Users/sidaye/Documents/python/ST_MultiCAST/Module_driver4.ipynb'\\)\\); print\\('Number of cells:', len\\(nb['cells']\\)\\); [print\\(f'Cell {i} \\({cell[\\\\\"cell_type\\\\\"]}\\): {cell[\\\\\"source\\\\\"][:200] if cell[\\\\\"source\\\\\"] else \\\\\"empty\\\\\"}'\\) for i, cell in enumerate\\(nb['cells'][:20]\\)]\")"
+    ]
+  }
+}

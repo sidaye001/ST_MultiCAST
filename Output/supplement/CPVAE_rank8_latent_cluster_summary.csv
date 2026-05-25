@@ -1,0 +1,3 @@
+CPVAE_cluster,n_genes,strongest_defect_time_mode,strongest_defect_space_mode,mean_fitness_mean,min_fitness_mean,dynamic_range_mean
+0,2013,6h,st,0.8447195692426229,-0.842483201329856,4.959727968841033
+1,1181,6h,SI1,0.2705236766617197,-1.7296870251922098,5.684850036199831

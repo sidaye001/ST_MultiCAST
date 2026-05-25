@@ -1,0 +1,1537 @@
+Rank,Model,Program_1,Program_2,Correlation,Basis_source
+2,PCA,PC1,PC1,1.0,first_2_programs_from_rank10_fit
+2,PCA,PC1,PC2,9.589302028364375e-17,first_2_programs_from_rank10_fit
+2,PCA,PC2,PC1,9.589302028364375e-17,first_2_programs_from_rank10_fit
+2,PCA,PC2,PC2,0.9999999999999999,first_2_programs_from_rank10_fit
+2,CP,CP1,CP1,1.0,first_2_programs_from_rank10_fit
+2,CP,CP1,CP2,-0.13850087059892208,first_2_programs_from_rank10_fit
+2,CP,CP2,CP1,-0.13850087059892208,first_2_programs_from_rank10_fit
+2,CP,CP2,CP2,1.0,first_2_programs_from_rank10_fit
+2,VAE,VAE1,VAE1,0.9999999999999998,first_2_programs_from_rank10_fit
+2,VAE,VAE1,VAE2,0.2036426757592225,first_2_programs_from_rank10_fit
+2,VAE,VAE2,VAE1,0.20364267575922249,first_2_programs_from_rank10_fit
+2,VAE,VAE2,VAE2,1.0,first_2_programs_from_rank10_fit
+2,weighted CPVAE,CPVAE1,CPVAE1,0.9999999999999999,first_2_programs_from_rank10_fit
+2,weighted CPVAE,CPVAE1,CPVAE2,0.36465209481615685,first_2_programs_from_rank10_fit
+2,weighted CPVAE,CPVAE2,CPVAE1,0.3646520948161568,first_2_programs_from_rank10_fit
+2,weighted CPVAE,CPVAE2,CPVAE2,0.9999999999999998,first_2_programs_from_rank10_fit
+3,PCA,PC1,PC1,1.0,first_3_programs_from_rank10_fit
+3,PCA,PC1,PC2,9.589302028364375e-17,first_3_programs_from_rank10_fit
+3,PCA,PC1,PC3,1.6738146632117187e-16,first_3_programs_from_rank10_fit
+3,PCA,PC2,PC1,9.589302028364375e-17,first_3_programs_from_rank10_fit
+3,PCA,PC2,PC2,0.9999999999999999,first_3_programs_from_rank10_fit
+3,PCA,PC2,PC3,2.532982623454135e-16,first_3_programs_from_rank10_fit
+3,PCA,PC3,PC1,1.6738146632117185e-16,first_3_programs_from_rank10_fit
+3,PCA,PC3,PC2,2.532982623454135e-16,first_3_programs_from_rank10_fit
+3,PCA,PC3,PC3,1.0,first_3_programs_from_rank10_fit
+3,CP,CP1,CP1,1.0,first_3_programs_from_rank10_fit
+3,CP,CP1,CP2,-0.13850087059892208,first_3_programs_from_rank10_fit
+3,CP,CP1,CP3,0.08184640315931828,first_3_programs_from_rank10_fit
+3,CP,CP2,CP1,-0.13850087059892208,first_3_programs_from_rank10_fit
+3,CP,CP2,CP2,1.0,first_3_programs_from_rank10_fit
+3,CP,CP2,CP3,-0.19093974304868813,first_3_programs_from_rank10_fit
+3,CP,CP3,CP1,0.08184640315931829,first_3_programs_from_rank10_fit
+3,CP,CP3,CP2,-0.19093974304868813,first_3_programs_from_rank10_fit
+3,CP,CP3,CP3,1.0,first_3_programs_from_rank10_fit
+3,VAE,VAE1,VAE1,0.9999999999999998,first_3_programs_from_rank10_fit
+3,VAE,VAE1,VAE2,0.2036426757592225,first_3_programs_from_rank10_fit
+3,VAE,VAE1,VAE3,0.21639844911000003,first_3_programs_from_rank10_fit
+3,VAE,VAE2,VAE1,0.20364267575922249,first_3_programs_from_rank10_fit
+3,VAE,VAE2,VAE2,1.0,first_3_programs_from_rank10_fit
+3,VAE,VAE2,VAE3,-0.32502206366698905,first_3_programs_from_rank10_fit
+3,VAE,VAE3,VAE1,0.21639844911000006,first_3_programs_from_rank10_fit
+3,VAE,VAE3,VAE2,-0.32502206366698905,first_3_programs_from_rank10_fit
+3,VAE,VAE3,VAE3,1.0,first_3_programs_from_rank10_fit
+3,weighted CPVAE,CPVAE1,CPVAE1,0.9999999999999999,first_3_programs_from_rank10_fit
+3,weighted CPVAE,CPVAE1,CPVAE2,0.36465209481615685,first_3_programs_from_rank10_fit
+3,weighted CPVAE,CPVAE1,CPVAE3,0.03541023948163845,first_3_programs_from_rank10_fit
+3,weighted CPVAE,CPVAE2,CPVAE1,0.3646520948161568,first_3_programs_from_rank10_fit
+3,weighted CPVAE,CPVAE2,CPVAE2,0.9999999999999998,first_3_programs_from_rank10_fit
+3,weighted CPVAE,CPVAE2,CPVAE3,0.04905780264694462,first_3_programs_from_rank10_fit
+3,weighted CPVAE,CPVAE3,CPVAE1,0.035410239481638454,first_3_programs_from_rank10_fit
+3,weighted CPVAE,CPVAE3,CPVAE2,0.049057802646944614,first_3_programs_from_rank10_fit
+3,weighted CPVAE,CPVAE3,CPVAE3,0.9999999999999998,first_3_programs_from_rank10_fit
+4,PCA,PC1,PC1,1.0,first_4_programs_from_rank10_fit
+4,PCA,PC1,PC2,9.589302028364375e-17,first_4_programs_from_rank10_fit
+4,PCA,PC1,PC3,1.6738146632117187e-16,first_4_programs_from_rank10_fit
+4,PCA,PC1,PC4,1.7727440915743528e-16,first_4_programs_from_rank10_fit
+4,PCA,PC2,PC1,9.589302028364375e-17,first_4_programs_from_rank10_fit
+4,PCA,PC2,PC2,0.9999999999999999,first_4_programs_from_rank10_fit
+4,PCA,PC2,PC3,2.532982623454135e-16,first_4_programs_from_rank10_fit
+4,PCA,PC2,PC4,-1.0808722303223044e-16,first_4_programs_from_rank10_fit
+4,PCA,PC3,PC1,1.6738146632117185e-16,first_4_programs_from_rank10_fit
+4,PCA,PC3,PC2,2.532982623454135e-16,first_4_programs_from_rank10_fit
+4,PCA,PC3,PC3,1.0,first_4_programs_from_rank10_fit
+4,PCA,PC3,PC4,6.258944227144384e-16,first_4_programs_from_rank10_fit
+4,PCA,PC4,PC1,1.7727440915743526e-16,first_4_programs_from_rank10_fit
+4,PCA,PC4,PC2,-1.0808722303223044e-16,first_4_programs_from_rank10_fit
+4,PCA,PC4,PC3,6.258944227144384e-16,first_4_programs_from_rank10_fit
+4,PCA,PC4,PC4,1.0,first_4_programs_from_rank10_fit
+4,CP,CP1,CP1,1.0,first_4_programs_from_rank10_fit
+4,CP,CP1,CP2,-0.13850087059892208,first_4_programs_from_rank10_fit
+4,CP,CP1,CP3,0.08184640315931828,first_4_programs_from_rank10_fit
+4,CP,CP1,CP4,0.0019286395527554365,first_4_programs_from_rank10_fit
+4,CP,CP2,CP1,-0.13850087059892208,first_4_programs_from_rank10_fit
+4,CP,CP2,CP2,1.0,first_4_programs_from_rank10_fit
+4,CP,CP2,CP3,-0.19093974304868813,first_4_programs_from_rank10_fit
+4,CP,CP2,CP4,0.279925413000421,first_4_programs_from_rank10_fit
+4,CP,CP3,CP1,0.08184640315931829,first_4_programs_from_rank10_fit
+4,CP,CP3,CP2,-0.19093974304868813,first_4_programs_from_rank10_fit
+4,CP,CP3,CP3,1.0,first_4_programs_from_rank10_fit
+4,CP,CP3,CP4,0.015602932739432423,first_4_programs_from_rank10_fit
+4,CP,CP4,CP1,0.0019286395527554365,first_4_programs_from_rank10_fit
+4,CP,CP4,CP2,0.279925413000421,first_4_programs_from_rank10_fit
+4,CP,CP4,CP3,0.015602932739432423,first_4_programs_from_rank10_fit
+4,CP,CP4,CP4,1.0,first_4_programs_from_rank10_fit
+4,VAE,VAE1,VAE1,0.9999999999999998,first_4_programs_from_rank10_fit
+4,VAE,VAE1,VAE2,0.2036426757592225,first_4_programs_from_rank10_fit
+4,VAE,VAE1,VAE3,0.21639844911000003,first_4_programs_from_rank10_fit
+4,VAE,VAE1,VAE4,0.49763441473547565,first_4_programs_from_rank10_fit
+4,VAE,VAE2,VAE1,0.20364267575922249,first_4_programs_from_rank10_fit
+4,VAE,VAE2,VAE2,1.0,first_4_programs_from_rank10_fit
+4,VAE,VAE2,VAE3,-0.32502206366698905,first_4_programs_from_rank10_fit
+4,VAE,VAE2,VAE4,-0.30549357827814794,first_4_programs_from_rank10_fit
+4,VAE,VAE3,VAE1,0.21639844911000006,first_4_programs_from_rank10_fit
+4,VAE,VAE3,VAE2,-0.32502206366698905,first_4_programs_from_rank10_fit
+4,VAE,VAE3,VAE3,1.0,first_4_programs_from_rank10_fit
+4,VAE,VAE3,VAE4,0.8161392622627767,first_4_programs_from_rank10_fit
+4,VAE,VAE4,VAE1,0.49763441473547565,first_4_programs_from_rank10_fit
+4,VAE,VAE4,VAE2,-0.3054935782781479,first_4_programs_from_rank10_fit
+4,VAE,VAE4,VAE3,0.8161392622627768,first_4_programs_from_rank10_fit
+4,VAE,VAE4,VAE4,0.9999999999999998,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE1,CPVAE1,0.9999999999999999,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE1,CPVAE2,0.36465209481615685,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE1,CPVAE3,0.03541023948163845,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE1,CPVAE4,0.2996470768394944,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE2,CPVAE1,0.3646520948161568,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE2,CPVAE2,0.9999999999999998,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE2,CPVAE3,0.04905780264694462,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE2,CPVAE4,0.051614010660103994,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE3,CPVAE1,0.035410239481638454,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE3,CPVAE2,0.049057802646944614,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE3,CPVAE3,0.9999999999999998,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE3,CPVAE4,-0.013672567099632181,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE4,CPVAE1,0.2996470768394944,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE4,CPVAE2,0.051614010660103994,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE4,CPVAE3,-0.01367256709963218,first_4_programs_from_rank10_fit
+4,weighted CPVAE,CPVAE4,CPVAE4,1.0,first_4_programs_from_rank10_fit
+5,PCA,PC1,PC1,1.0,first_5_programs_from_rank10_fit
+5,PCA,PC1,PC2,9.589302028364375e-17,first_5_programs_from_rank10_fit
+5,PCA,PC1,PC3,1.6738146632117187e-16,first_5_programs_from_rank10_fit
+5,PCA,PC1,PC4,1.7727440915743528e-16,first_5_programs_from_rank10_fit
+5,PCA,PC1,PC5,5.453731223259127e-18,first_5_programs_from_rank10_fit
+5,PCA,PC2,PC1,9.589302028364375e-17,first_5_programs_from_rank10_fit
+5,PCA,PC2,PC2,0.9999999999999999,first_5_programs_from_rank10_fit
+5,PCA,PC2,PC3,2.532982623454135e-16,first_5_programs_from_rank10_fit
+5,PCA,PC2,PC4,-1.0808722303223044e-16,first_5_programs_from_rank10_fit
+5,PCA,PC2,PC5,-7.917965574724918e-18,first_5_programs_from_rank10_fit
+5,PCA,PC3,PC1,1.6738146632117185e-16,first_5_programs_from_rank10_fit
+5,PCA,PC3,PC2,2.532982623454135e-16,first_5_programs_from_rank10_fit
+5,PCA,PC3,PC3,1.0,first_5_programs_from_rank10_fit
+5,PCA,PC3,PC4,6.258944227144384e-16,first_5_programs_from_rank10_fit
+5,PCA,PC3,PC5,-2.1669794547599077e-17,first_5_programs_from_rank10_fit
+5,PCA,PC4,PC1,1.7727440915743526e-16,first_5_programs_from_rank10_fit
+5,PCA,PC4,PC2,-1.0808722303223044e-16,first_5_programs_from_rank10_fit
+5,PCA,PC4,PC3,6.258944227144384e-16,first_5_programs_from_rank10_fit
+5,PCA,PC4,PC4,1.0,first_5_programs_from_rank10_fit
+5,PCA,PC4,PC5,-1.5234067077475774e-17,first_5_programs_from_rank10_fit
+5,PCA,PC5,PC1,5.453731223259126e-18,first_5_programs_from_rank10_fit
+5,PCA,PC5,PC2,-7.91796557472492e-18,first_5_programs_from_rank10_fit
+5,PCA,PC5,PC3,-2.1669794547599077e-17,first_5_programs_from_rank10_fit
+5,PCA,PC5,PC4,-1.523406707747577e-17,first_5_programs_from_rank10_fit
+5,PCA,PC5,PC5,1.0,first_5_programs_from_rank10_fit
+5,CP,CP1,CP1,1.0,first_5_programs_from_rank10_fit
+5,CP,CP1,CP2,-0.13850087059892208,first_5_programs_from_rank10_fit
+5,CP,CP1,CP3,0.08184640315931828,first_5_programs_from_rank10_fit
+5,CP,CP1,CP4,0.0019286395527554365,first_5_programs_from_rank10_fit
+5,CP,CP1,CP5,0.047107829831355814,first_5_programs_from_rank10_fit
+5,CP,CP2,CP1,-0.13850087059892208,first_5_programs_from_rank10_fit
+5,CP,CP2,CP2,1.0,first_5_programs_from_rank10_fit
+5,CP,CP2,CP3,-0.19093974304868813,first_5_programs_from_rank10_fit
+5,CP,CP2,CP4,0.279925413000421,first_5_programs_from_rank10_fit
+5,CP,CP2,CP5,0.224955870342643,first_5_programs_from_rank10_fit
+5,CP,CP3,CP1,0.08184640315931829,first_5_programs_from_rank10_fit
+5,CP,CP3,CP2,-0.19093974304868813,first_5_programs_from_rank10_fit
+5,CP,CP3,CP3,1.0,first_5_programs_from_rank10_fit
+5,CP,CP3,CP4,0.015602932739432423,first_5_programs_from_rank10_fit
+5,CP,CP3,CP5,-0.014989134481181568,first_5_programs_from_rank10_fit
+5,CP,CP4,CP1,0.0019286395527554365,first_5_programs_from_rank10_fit
+5,CP,CP4,CP2,0.279925413000421,first_5_programs_from_rank10_fit
+5,CP,CP4,CP3,0.015602932739432423,first_5_programs_from_rank10_fit
+5,CP,CP4,CP4,1.0,first_5_programs_from_rank10_fit
+5,CP,CP4,CP5,-0.17546601452661914,first_5_programs_from_rank10_fit
+5,CP,CP5,CP1,0.047107829831355814,first_5_programs_from_rank10_fit
+5,CP,CP5,CP2,0.224955870342643,first_5_programs_from_rank10_fit
+5,CP,CP5,CP3,-0.014989134481181568,first_5_programs_from_rank10_fit
+5,CP,CP5,CP4,-0.17546601452661914,first_5_programs_from_rank10_fit
+5,CP,CP5,CP5,1.0,first_5_programs_from_rank10_fit
+5,VAE,VAE1,VAE1,0.9999999999999998,first_5_programs_from_rank10_fit
+5,VAE,VAE1,VAE2,0.2036426757592225,first_5_programs_from_rank10_fit
+5,VAE,VAE1,VAE3,0.21639844911000003,first_5_programs_from_rank10_fit
+5,VAE,VAE1,VAE4,0.49763441473547565,first_5_programs_from_rank10_fit
+5,VAE,VAE1,VAE5,-0.7502539838179095,first_5_programs_from_rank10_fit
+5,VAE,VAE2,VAE1,0.20364267575922249,first_5_programs_from_rank10_fit
+5,VAE,VAE2,VAE2,1.0,first_5_programs_from_rank10_fit
+5,VAE,VAE2,VAE3,-0.32502206366698905,first_5_programs_from_rank10_fit
+5,VAE,VAE2,VAE4,-0.30549357827814794,first_5_programs_from_rank10_fit
+5,VAE,VAE2,VAE5,-0.1608245192906864,first_5_programs_from_rank10_fit
+5,VAE,VAE3,VAE1,0.21639844911000006,first_5_programs_from_rank10_fit
+5,VAE,VAE3,VAE2,-0.32502206366698905,first_5_programs_from_rank10_fit
+5,VAE,VAE3,VAE3,1.0,first_5_programs_from_rank10_fit
+5,VAE,VAE3,VAE4,0.8161392622627767,first_5_programs_from_rank10_fit
+5,VAE,VAE3,VAE5,-0.44209533177449944,first_5_programs_from_rank10_fit
+5,VAE,VAE4,VAE1,0.49763441473547565,first_5_programs_from_rank10_fit
+5,VAE,VAE4,VAE2,-0.3054935782781479,first_5_programs_from_rank10_fit
+5,VAE,VAE4,VAE3,0.8161392622627768,first_5_programs_from_rank10_fit
+5,VAE,VAE4,VAE4,0.9999999999999998,first_5_programs_from_rank10_fit
+5,VAE,VAE4,VAE5,-0.3802395169119574,first_5_programs_from_rank10_fit
+5,VAE,VAE5,VAE1,-0.7502539838179095,first_5_programs_from_rank10_fit
+5,VAE,VAE5,VAE2,-0.16082451929068636,first_5_programs_from_rank10_fit
+5,VAE,VAE5,VAE3,-0.44209533177449944,first_5_programs_from_rank10_fit
+5,VAE,VAE5,VAE4,-0.3802395169119574,first_5_programs_from_rank10_fit
+5,VAE,VAE5,VAE5,1.0,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE1,CPVAE1,0.9999999999999999,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE1,CPVAE2,0.36465209481615685,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE1,CPVAE3,0.03541023948163845,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE1,CPVAE4,0.2996470768394944,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE1,CPVAE5,0.006024671221342642,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE2,CPVAE1,0.3646520948161568,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE2,CPVAE2,0.9999999999999998,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE2,CPVAE3,0.04905780264694462,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE2,CPVAE4,0.051614010660103994,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE2,CPVAE5,0.1389444680033703,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE3,CPVAE1,0.035410239481638454,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE3,CPVAE2,0.049057802646944614,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE3,CPVAE3,0.9999999999999998,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE3,CPVAE4,-0.013672567099632181,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE3,CPVAE5,0.20279962570459936,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE4,CPVAE1,0.2996470768394944,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE4,CPVAE2,0.051614010660103994,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE4,CPVAE3,-0.01367256709963218,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE4,CPVAE4,1.0,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE4,CPVAE5,0.06485521649226482,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE5,CPVAE1,0.006024671221342642,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE5,CPVAE2,0.1389444680033703,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE5,CPVAE3,0.20279962570459936,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE5,CPVAE4,0.06485521649226482,first_5_programs_from_rank10_fit
+5,weighted CPVAE,CPVAE5,CPVAE5,0.9999999999999999,first_5_programs_from_rank10_fit
+6,PCA,PC1,PC1,1.0,first_6_programs_from_rank10_fit
+6,PCA,PC1,PC2,9.589302028364375e-17,first_6_programs_from_rank10_fit
+6,PCA,PC1,PC3,1.6738146632117187e-16,first_6_programs_from_rank10_fit
+6,PCA,PC1,PC4,1.7727440915743528e-16,first_6_programs_from_rank10_fit
+6,PCA,PC1,PC5,5.453731223259127e-18,first_6_programs_from_rank10_fit
+6,PCA,PC1,PC6,-1.6390020933657362e-16,first_6_programs_from_rank10_fit
+6,PCA,PC2,PC1,9.589302028364375e-17,first_6_programs_from_rank10_fit
+6,PCA,PC2,PC2,0.9999999999999999,first_6_programs_from_rank10_fit
+6,PCA,PC2,PC3,2.532982623454135e-16,first_6_programs_from_rank10_fit
+6,PCA,PC2,PC4,-1.0808722303223044e-16,first_6_programs_from_rank10_fit
+6,PCA,PC2,PC5,-7.917965574724918e-18,first_6_programs_from_rank10_fit
+6,PCA,PC2,PC6,-8.658875823588397e-18,first_6_programs_from_rank10_fit
+6,PCA,PC3,PC1,1.6738146632117185e-16,first_6_programs_from_rank10_fit
+6,PCA,PC3,PC2,2.532982623454135e-16,first_6_programs_from_rank10_fit
+6,PCA,PC3,PC3,1.0,first_6_programs_from_rank10_fit
+6,PCA,PC3,PC4,6.258944227144384e-16,first_6_programs_from_rank10_fit
+6,PCA,PC3,PC5,-2.1669794547599077e-17,first_6_programs_from_rank10_fit
+6,PCA,PC3,PC6,4.931246052290993e-16,first_6_programs_from_rank10_fit
+6,PCA,PC4,PC1,1.7727440915743526e-16,first_6_programs_from_rank10_fit
+6,PCA,PC4,PC2,-1.0808722303223044e-16,first_6_programs_from_rank10_fit
+6,PCA,PC4,PC3,6.258944227144384e-16,first_6_programs_from_rank10_fit
+6,PCA,PC4,PC4,1.0,first_6_programs_from_rank10_fit
+6,PCA,PC4,PC5,-1.5234067077475774e-17,first_6_programs_from_rank10_fit
+6,PCA,PC4,PC6,-1.5525358564222555e-16,first_6_programs_from_rank10_fit
+6,PCA,PC5,PC1,5.453731223259126e-18,first_6_programs_from_rank10_fit
+6,PCA,PC5,PC2,-7.91796557472492e-18,first_6_programs_from_rank10_fit
+6,PCA,PC5,PC3,-2.1669794547599077e-17,first_6_programs_from_rank10_fit
+6,PCA,PC5,PC4,-1.523406707747577e-17,first_6_programs_from_rank10_fit
+6,PCA,PC5,PC5,1.0,first_6_programs_from_rank10_fit
+6,PCA,PC5,PC6,-4.2009053576020084e-16,first_6_programs_from_rank10_fit
+6,PCA,PC6,PC1,-1.6390020933657362e-16,first_6_programs_from_rank10_fit
+6,PCA,PC6,PC2,-8.658875823588397e-18,first_6_programs_from_rank10_fit
+6,PCA,PC6,PC3,4.931246052290993e-16,first_6_programs_from_rank10_fit
+6,PCA,PC6,PC4,-1.5525358564222555e-16,first_6_programs_from_rank10_fit
+6,PCA,PC6,PC5,-4.2009053576020084e-16,first_6_programs_from_rank10_fit
+6,PCA,PC6,PC6,0.9999999999999999,first_6_programs_from_rank10_fit
+6,CP,CP1,CP1,1.0,first_6_programs_from_rank10_fit
+6,CP,CP1,CP2,-0.13850087059892208,first_6_programs_from_rank10_fit
+6,CP,CP1,CP3,0.08184640315931828,first_6_programs_from_rank10_fit
+6,CP,CP1,CP4,0.0019286395527554365,first_6_programs_from_rank10_fit
+6,CP,CP1,CP5,0.047107829831355814,first_6_programs_from_rank10_fit
+6,CP,CP1,CP6,-0.23270570542032953,first_6_programs_from_rank10_fit
+6,CP,CP2,CP1,-0.13850087059892208,first_6_programs_from_rank10_fit
+6,CP,CP2,CP2,1.0,first_6_programs_from_rank10_fit
+6,CP,CP2,CP3,-0.19093974304868813,first_6_programs_from_rank10_fit
+6,CP,CP2,CP4,0.279925413000421,first_6_programs_from_rank10_fit
+6,CP,CP2,CP5,0.224955870342643,first_6_programs_from_rank10_fit
+6,CP,CP2,CP6,0.19290614090201166,first_6_programs_from_rank10_fit
+6,CP,CP3,CP1,0.08184640315931829,first_6_programs_from_rank10_fit
+6,CP,CP3,CP2,-0.19093974304868813,first_6_programs_from_rank10_fit
+6,CP,CP3,CP3,1.0,first_6_programs_from_rank10_fit
+6,CP,CP3,CP4,0.015602932739432423,first_6_programs_from_rank10_fit
+6,CP,CP3,CP5,-0.014989134481181568,first_6_programs_from_rank10_fit
+6,CP,CP3,CP6,-0.640659460755557,first_6_programs_from_rank10_fit
+6,CP,CP4,CP1,0.0019286395527554365,first_6_programs_from_rank10_fit
+6,CP,CP4,CP2,0.279925413000421,first_6_programs_from_rank10_fit
+6,CP,CP4,CP3,0.015602932739432423,first_6_programs_from_rank10_fit
+6,CP,CP4,CP4,1.0,first_6_programs_from_rank10_fit
+6,CP,CP4,CP5,-0.17546601452661914,first_6_programs_from_rank10_fit
+6,CP,CP4,CP6,-0.0006534955020224407,first_6_programs_from_rank10_fit
+6,CP,CP5,CP1,0.047107829831355814,first_6_programs_from_rank10_fit
+6,CP,CP5,CP2,0.224955870342643,first_6_programs_from_rank10_fit
+6,CP,CP5,CP3,-0.014989134481181568,first_6_programs_from_rank10_fit
+6,CP,CP5,CP4,-0.17546601452661914,first_6_programs_from_rank10_fit
+6,CP,CP5,CP5,1.0,first_6_programs_from_rank10_fit
+6,CP,CP5,CP6,-0.03867703248183282,first_6_programs_from_rank10_fit
+6,CP,CP6,CP1,-0.23270570542032953,first_6_programs_from_rank10_fit
+6,CP,CP6,CP2,0.19290614090201166,first_6_programs_from_rank10_fit
+6,CP,CP6,CP3,-0.640659460755557,first_6_programs_from_rank10_fit
+6,CP,CP6,CP4,-0.0006534955020224408,first_6_programs_from_rank10_fit
+6,CP,CP6,CP5,-0.03867703248183282,first_6_programs_from_rank10_fit
+6,CP,CP6,CP6,1.0,first_6_programs_from_rank10_fit
+6,VAE,VAE1,VAE1,0.9999999999999998,first_6_programs_from_rank10_fit
+6,VAE,VAE1,VAE2,0.2036426757592225,first_6_programs_from_rank10_fit
+6,VAE,VAE1,VAE3,0.21639844911000003,first_6_programs_from_rank10_fit
+6,VAE,VAE1,VAE4,0.49763441473547565,first_6_programs_from_rank10_fit
+6,VAE,VAE1,VAE5,-0.7502539838179095,first_6_programs_from_rank10_fit
+6,VAE,VAE1,VAE6,0.07037566198244422,first_6_programs_from_rank10_fit
+6,VAE,VAE2,VAE1,0.20364267575922249,first_6_programs_from_rank10_fit
+6,VAE,VAE2,VAE2,1.0,first_6_programs_from_rank10_fit
+6,VAE,VAE2,VAE3,-0.32502206366698905,first_6_programs_from_rank10_fit
+6,VAE,VAE2,VAE4,-0.30549357827814794,first_6_programs_from_rank10_fit
+6,VAE,VAE2,VAE5,-0.1608245192906864,first_6_programs_from_rank10_fit
+6,VAE,VAE2,VAE6,-0.34291594270494985,first_6_programs_from_rank10_fit
+6,VAE,VAE3,VAE1,0.21639844911000006,first_6_programs_from_rank10_fit
+6,VAE,VAE3,VAE2,-0.32502206366698905,first_6_programs_from_rank10_fit
+6,VAE,VAE3,VAE3,1.0,first_6_programs_from_rank10_fit
+6,VAE,VAE3,VAE4,0.8161392622627767,first_6_programs_from_rank10_fit
+6,VAE,VAE3,VAE5,-0.44209533177449944,first_6_programs_from_rank10_fit
+6,VAE,VAE3,VAE6,0.164064287677791,first_6_programs_from_rank10_fit
+6,VAE,VAE4,VAE1,0.49763441473547565,first_6_programs_from_rank10_fit
+6,VAE,VAE4,VAE2,-0.3054935782781479,first_6_programs_from_rank10_fit
+6,VAE,VAE4,VAE3,0.8161392622627768,first_6_programs_from_rank10_fit
+6,VAE,VAE4,VAE4,0.9999999999999998,first_6_programs_from_rank10_fit
+6,VAE,VAE4,VAE5,-0.3802395169119574,first_6_programs_from_rank10_fit
+6,VAE,VAE4,VAE6,-0.09629749185432263,first_6_programs_from_rank10_fit
+6,VAE,VAE5,VAE1,-0.7502539838179095,first_6_programs_from_rank10_fit
+6,VAE,VAE5,VAE2,-0.16082451929068636,first_6_programs_from_rank10_fit
+6,VAE,VAE5,VAE3,-0.44209533177449944,first_6_programs_from_rank10_fit
+6,VAE,VAE5,VAE4,-0.3802395169119574,first_6_programs_from_rank10_fit
+6,VAE,VAE5,VAE5,1.0,first_6_programs_from_rank10_fit
+6,VAE,VAE5,VAE6,-0.32470928933794385,first_6_programs_from_rank10_fit
+6,VAE,VAE6,VAE1,0.07037566198244422,first_6_programs_from_rank10_fit
+6,VAE,VAE6,VAE2,-0.3429159427049499,first_6_programs_from_rank10_fit
+6,VAE,VAE6,VAE3,0.164064287677791,first_6_programs_from_rank10_fit
+6,VAE,VAE6,VAE4,-0.09629749185432263,first_6_programs_from_rank10_fit
+6,VAE,VAE6,VAE5,-0.3247092893379439,first_6_programs_from_rank10_fit
+6,VAE,VAE6,VAE6,1.0,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE1,CPVAE1,0.9999999999999999,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE1,CPVAE2,0.36465209481615685,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE1,CPVAE3,0.03541023948163845,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE1,CPVAE4,0.2996470768394944,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE1,CPVAE5,0.006024671221342642,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE1,CPVAE6,-0.09476482218210838,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE2,CPVAE1,0.3646520948161568,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE2,CPVAE2,0.9999999999999998,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE2,CPVAE3,0.04905780264694462,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE2,CPVAE4,0.051614010660103994,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE2,CPVAE5,0.1389444680033703,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE2,CPVAE6,-0.12608381635222754,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE3,CPVAE1,0.035410239481638454,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE3,CPVAE2,0.049057802646944614,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE3,CPVAE3,0.9999999999999998,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE3,CPVAE4,-0.013672567099632181,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE3,CPVAE5,0.20279962570459936,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE3,CPVAE6,0.026528792712965637,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE4,CPVAE1,0.2996470768394944,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE4,CPVAE2,0.051614010660103994,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE4,CPVAE3,-0.01367256709963218,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE4,CPVAE4,1.0,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE4,CPVAE5,0.06485521649226482,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE4,CPVAE6,0.05348206962628258,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE5,CPVAE1,0.006024671221342642,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE5,CPVAE2,0.1389444680033703,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE5,CPVAE3,0.20279962570459936,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE5,CPVAE4,0.06485521649226482,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE5,CPVAE5,0.9999999999999999,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE5,CPVAE6,-0.224065878279511,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE6,CPVAE1,-0.09476482218210838,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE6,CPVAE2,-0.1260838163522275,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE6,CPVAE3,0.026528792712965633,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE6,CPVAE4,0.05348206962628258,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE6,CPVAE5,-0.22406587827951102,first_6_programs_from_rank10_fit
+6,weighted CPVAE,CPVAE6,CPVAE6,1.0,first_6_programs_from_rank10_fit
+7,PCA,PC1,PC1,1.0,first_7_programs_from_rank10_fit
+7,PCA,PC1,PC2,9.589302028364375e-17,first_7_programs_from_rank10_fit
+7,PCA,PC1,PC3,1.6738146632117187e-16,first_7_programs_from_rank10_fit
+7,PCA,PC1,PC4,1.7727440915743528e-16,first_7_programs_from_rank10_fit
+7,PCA,PC1,PC5,5.453731223259127e-18,first_7_programs_from_rank10_fit
+7,PCA,PC1,PC6,-1.6390020933657362e-16,first_7_programs_from_rank10_fit
+7,PCA,PC1,PC7,1.8593600819041814e-17,first_7_programs_from_rank10_fit
+7,PCA,PC2,PC1,9.589302028364375e-17,first_7_programs_from_rank10_fit
+7,PCA,PC2,PC2,0.9999999999999999,first_7_programs_from_rank10_fit
+7,PCA,PC2,PC3,2.532982623454135e-16,first_7_programs_from_rank10_fit
+7,PCA,PC2,PC4,-1.0808722303223044e-16,first_7_programs_from_rank10_fit
+7,PCA,PC2,PC5,-7.917965574724918e-18,first_7_programs_from_rank10_fit
+7,PCA,PC2,PC6,-8.658875823588397e-18,first_7_programs_from_rank10_fit
+7,PCA,PC2,PC7,-8.5561158335245e-18,first_7_programs_from_rank10_fit
+7,PCA,PC3,PC1,1.6738146632117185e-16,first_7_programs_from_rank10_fit
+7,PCA,PC3,PC2,2.532982623454135e-16,first_7_programs_from_rank10_fit
+7,PCA,PC3,PC3,1.0,first_7_programs_from_rank10_fit
+7,PCA,PC3,PC4,6.258944227144384e-16,first_7_programs_from_rank10_fit
+7,PCA,PC3,PC5,-2.1669794547599077e-17,first_7_programs_from_rank10_fit
+7,PCA,PC3,PC6,4.931246052290993e-16,first_7_programs_from_rank10_fit
+7,PCA,PC3,PC7,-7.653487176537637e-17,first_7_programs_from_rank10_fit
+7,PCA,PC4,PC1,1.7727440915743526e-16,first_7_programs_from_rank10_fit
+7,PCA,PC4,PC2,-1.0808722303223044e-16,first_7_programs_from_rank10_fit
+7,PCA,PC4,PC3,6.258944227144384e-16,first_7_programs_from_rank10_fit
+7,PCA,PC4,PC4,1.0,first_7_programs_from_rank10_fit
+7,PCA,PC4,PC5,-1.5234067077475774e-17,first_7_programs_from_rank10_fit
+7,PCA,PC4,PC6,-1.5525358564222555e-16,first_7_programs_from_rank10_fit
+7,PCA,PC4,PC7,4.903925064428939e-17,first_7_programs_from_rank10_fit
+7,PCA,PC5,PC1,5.453731223259126e-18,first_7_programs_from_rank10_fit
+7,PCA,PC5,PC2,-7.91796557472492e-18,first_7_programs_from_rank10_fit
+7,PCA,PC5,PC3,-2.1669794547599077e-17,first_7_programs_from_rank10_fit
+7,PCA,PC5,PC4,-1.523406707747577e-17,first_7_programs_from_rank10_fit
+7,PCA,PC5,PC5,1.0,first_7_programs_from_rank10_fit
+7,PCA,PC5,PC6,-4.2009053576020084e-16,first_7_programs_from_rank10_fit
+7,PCA,PC5,PC7,1.1395490883342878e-16,first_7_programs_from_rank10_fit
+7,PCA,PC6,PC1,-1.6390020933657362e-16,first_7_programs_from_rank10_fit
+7,PCA,PC6,PC2,-8.658875823588397e-18,first_7_programs_from_rank10_fit
+7,PCA,PC6,PC3,4.931246052290993e-16,first_7_programs_from_rank10_fit
+7,PCA,PC6,PC4,-1.5525358564222555e-16,first_7_programs_from_rank10_fit
+7,PCA,PC6,PC5,-4.2009053576020084e-16,first_7_programs_from_rank10_fit
+7,PCA,PC6,PC6,0.9999999999999999,first_7_programs_from_rank10_fit
+7,PCA,PC6,PC7,1.2235847474548834e-16,first_7_programs_from_rank10_fit
+7,PCA,PC7,PC1,1.8593600819041814e-17,first_7_programs_from_rank10_fit
+7,PCA,PC7,PC2,-8.5561158335245e-18,first_7_programs_from_rank10_fit
+7,PCA,PC7,PC3,-7.653487176537636e-17,first_7_programs_from_rank10_fit
+7,PCA,PC7,PC4,4.9039250644289384e-17,first_7_programs_from_rank10_fit
+7,PCA,PC7,PC5,1.1395490883342878e-16,first_7_programs_from_rank10_fit
+7,PCA,PC7,PC6,1.2235847474548834e-16,first_7_programs_from_rank10_fit
+7,PCA,PC7,PC7,1.0,first_7_programs_from_rank10_fit
+7,CP,CP1,CP1,1.0,first_7_programs_from_rank10_fit
+7,CP,CP1,CP2,-0.13850087059892208,first_7_programs_from_rank10_fit
+7,CP,CP1,CP3,0.08184640315931828,first_7_programs_from_rank10_fit
+7,CP,CP1,CP4,0.0019286395527554365,first_7_programs_from_rank10_fit
+7,CP,CP1,CP5,0.047107829831355814,first_7_programs_from_rank10_fit
+7,CP,CP1,CP6,-0.23270570542032953,first_7_programs_from_rank10_fit
+7,CP,CP1,CP7,-0.027442622668257692,first_7_programs_from_rank10_fit
+7,CP,CP2,CP1,-0.13850087059892208,first_7_programs_from_rank10_fit
+7,CP,CP2,CP2,1.0,first_7_programs_from_rank10_fit
+7,CP,CP2,CP3,-0.19093974304868813,first_7_programs_from_rank10_fit
+7,CP,CP2,CP4,0.279925413000421,first_7_programs_from_rank10_fit
+7,CP,CP2,CP5,0.224955870342643,first_7_programs_from_rank10_fit
+7,CP,CP2,CP6,0.19290614090201166,first_7_programs_from_rank10_fit
+7,CP,CP2,CP7,-0.35060704815166216,first_7_programs_from_rank10_fit
+7,CP,CP3,CP1,0.08184640315931829,first_7_programs_from_rank10_fit
+7,CP,CP3,CP2,-0.19093974304868813,first_7_programs_from_rank10_fit
+7,CP,CP3,CP3,1.0,first_7_programs_from_rank10_fit
+7,CP,CP3,CP4,0.015602932739432423,first_7_programs_from_rank10_fit
+7,CP,CP3,CP5,-0.014989134481181568,first_7_programs_from_rank10_fit
+7,CP,CP3,CP6,-0.640659460755557,first_7_programs_from_rank10_fit
+7,CP,CP3,CP7,0.6223260317815276,first_7_programs_from_rank10_fit
+7,CP,CP4,CP1,0.0019286395527554365,first_7_programs_from_rank10_fit
+7,CP,CP4,CP2,0.279925413000421,first_7_programs_from_rank10_fit
+7,CP,CP4,CP3,0.015602932739432423,first_7_programs_from_rank10_fit
+7,CP,CP4,CP4,1.0,first_7_programs_from_rank10_fit
+7,CP,CP4,CP5,-0.17546601452661914,first_7_programs_from_rank10_fit
+7,CP,CP4,CP6,-0.0006534955020224407,first_7_programs_from_rank10_fit
+7,CP,CP4,CP7,0.01357156764132668,first_7_programs_from_rank10_fit
+7,CP,CP5,CP1,0.047107829831355814,first_7_programs_from_rank10_fit
+7,CP,CP5,CP2,0.224955870342643,first_7_programs_from_rank10_fit
+7,CP,CP5,CP3,-0.014989134481181568,first_7_programs_from_rank10_fit
+7,CP,CP5,CP4,-0.17546601452661914,first_7_programs_from_rank10_fit
+7,CP,CP5,CP5,1.0,first_7_programs_from_rank10_fit
+7,CP,CP5,CP6,-0.03867703248183282,first_7_programs_from_rank10_fit
+7,CP,CP5,CP7,0.08026075365791743,first_7_programs_from_rank10_fit
+7,CP,CP6,CP1,-0.23270570542032953,first_7_programs_from_rank10_fit
+7,CP,CP6,CP2,0.19290614090201166,first_7_programs_from_rank10_fit
+7,CP,CP6,CP3,-0.640659460755557,first_7_programs_from_rank10_fit
+7,CP,CP6,CP4,-0.0006534955020224408,first_7_programs_from_rank10_fit
+7,CP,CP6,CP5,-0.03867703248183282,first_7_programs_from_rank10_fit
+7,CP,CP6,CP6,1.0,first_7_programs_from_rank10_fit
+7,CP,CP6,CP7,-0.22310135972321027,first_7_programs_from_rank10_fit
+7,CP,CP7,CP1,-0.027442622668257696,first_7_programs_from_rank10_fit
+7,CP,CP7,CP2,-0.35060704815166216,first_7_programs_from_rank10_fit
+7,CP,CP7,CP3,0.6223260317815277,first_7_programs_from_rank10_fit
+7,CP,CP7,CP4,0.01357156764132668,first_7_programs_from_rank10_fit
+7,CP,CP7,CP5,0.08026075365791743,first_7_programs_from_rank10_fit
+7,CP,CP7,CP6,-0.22310135972321027,first_7_programs_from_rank10_fit
+7,CP,CP7,CP7,0.9999999999999998,first_7_programs_from_rank10_fit
+7,VAE,VAE1,VAE1,0.9999999999999998,first_7_programs_from_rank10_fit
+7,VAE,VAE1,VAE2,0.2036426757592225,first_7_programs_from_rank10_fit
+7,VAE,VAE1,VAE3,0.21639844911000003,first_7_programs_from_rank10_fit
+7,VAE,VAE1,VAE4,0.49763441473547565,first_7_programs_from_rank10_fit
+7,VAE,VAE1,VAE5,-0.7502539838179095,first_7_programs_from_rank10_fit
+7,VAE,VAE1,VAE6,0.07037566198244422,first_7_programs_from_rank10_fit
+7,VAE,VAE1,VAE7,-0.33777202501487585,first_7_programs_from_rank10_fit
+7,VAE,VAE2,VAE1,0.20364267575922249,first_7_programs_from_rank10_fit
+7,VAE,VAE2,VAE2,1.0,first_7_programs_from_rank10_fit
+7,VAE,VAE2,VAE3,-0.32502206366698905,first_7_programs_from_rank10_fit
+7,VAE,VAE2,VAE4,-0.30549357827814794,first_7_programs_from_rank10_fit
+7,VAE,VAE2,VAE5,-0.1608245192906864,first_7_programs_from_rank10_fit
+7,VAE,VAE2,VAE6,-0.34291594270494985,first_7_programs_from_rank10_fit
+7,VAE,VAE2,VAE7,0.21771240887927457,first_7_programs_from_rank10_fit
+7,VAE,VAE3,VAE1,0.21639844911000006,first_7_programs_from_rank10_fit
+7,VAE,VAE3,VAE2,-0.32502206366698905,first_7_programs_from_rank10_fit
+7,VAE,VAE3,VAE3,1.0,first_7_programs_from_rank10_fit
+7,VAE,VAE3,VAE4,0.8161392622627767,first_7_programs_from_rank10_fit
+7,VAE,VAE3,VAE5,-0.44209533177449944,first_7_programs_from_rank10_fit
+7,VAE,VAE3,VAE6,0.164064287677791,first_7_programs_from_rank10_fit
+7,VAE,VAE3,VAE7,0.042417120645996086,first_7_programs_from_rank10_fit
+7,VAE,VAE4,VAE1,0.49763441473547565,first_7_programs_from_rank10_fit
+7,VAE,VAE4,VAE2,-0.3054935782781479,first_7_programs_from_rank10_fit
+7,VAE,VAE4,VAE3,0.8161392622627768,first_7_programs_from_rank10_fit
+7,VAE,VAE4,VAE4,0.9999999999999998,first_7_programs_from_rank10_fit
+7,VAE,VAE4,VAE5,-0.3802395169119574,first_7_programs_from_rank10_fit
+7,VAE,VAE4,VAE6,-0.09629749185432263,first_7_programs_from_rank10_fit
+7,VAE,VAE4,VAE7,-0.24557763328351526,first_7_programs_from_rank10_fit
+7,VAE,VAE5,VAE1,-0.7502539838179095,first_7_programs_from_rank10_fit
+7,VAE,VAE5,VAE2,-0.16082451929068636,first_7_programs_from_rank10_fit
+7,VAE,VAE5,VAE3,-0.44209533177449944,first_7_programs_from_rank10_fit
+7,VAE,VAE5,VAE4,-0.3802395169119574,first_7_programs_from_rank10_fit
+7,VAE,VAE5,VAE5,1.0,first_7_programs_from_rank10_fit
+7,VAE,VAE5,VAE6,-0.32470928933794385,first_7_programs_from_rank10_fit
+7,VAE,VAE5,VAE7,-0.030117368500673578,first_7_programs_from_rank10_fit
+7,VAE,VAE6,VAE1,0.07037566198244422,first_7_programs_from_rank10_fit
+7,VAE,VAE6,VAE2,-0.3429159427049499,first_7_programs_from_rank10_fit
+7,VAE,VAE6,VAE3,0.164064287677791,first_7_programs_from_rank10_fit
+7,VAE,VAE6,VAE4,-0.09629749185432263,first_7_programs_from_rank10_fit
+7,VAE,VAE6,VAE5,-0.3247092893379439,first_7_programs_from_rank10_fit
+7,VAE,VAE6,VAE6,1.0,first_7_programs_from_rank10_fit
+7,VAE,VAE6,VAE7,-0.32767183436198316,first_7_programs_from_rank10_fit
+7,VAE,VAE7,VAE1,-0.33777202501487585,first_7_programs_from_rank10_fit
+7,VAE,VAE7,VAE2,0.21771240887927457,first_7_programs_from_rank10_fit
+7,VAE,VAE7,VAE3,0.042417120645996086,first_7_programs_from_rank10_fit
+7,VAE,VAE7,VAE4,-0.24557763328351528,first_7_programs_from_rank10_fit
+7,VAE,VAE7,VAE5,-0.030117368500673578,first_7_programs_from_rank10_fit
+7,VAE,VAE7,VAE6,-0.3276718343619832,first_7_programs_from_rank10_fit
+7,VAE,VAE7,VAE7,1.0,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE1,CPVAE1,0.9999999999999999,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE1,CPVAE2,0.36465209481615685,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE1,CPVAE3,0.03541023948163845,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE1,CPVAE4,0.2996470768394944,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE1,CPVAE5,0.006024671221342642,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE1,CPVAE6,-0.09476482218210838,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE1,CPVAE7,-0.1883944406338841,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE2,CPVAE1,0.3646520948161568,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE2,CPVAE2,0.9999999999999998,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE2,CPVAE3,0.04905780264694462,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE2,CPVAE4,0.051614010660103994,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE2,CPVAE5,0.1389444680033703,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE2,CPVAE6,-0.12608381635222754,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE2,CPVAE7,-0.046172479787500775,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE3,CPVAE1,0.035410239481638454,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE3,CPVAE2,0.049057802646944614,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE3,CPVAE3,0.9999999999999998,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE3,CPVAE4,-0.013672567099632181,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE3,CPVAE5,0.20279962570459936,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE3,CPVAE6,0.026528792712965637,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE3,CPVAE7,-0.12618631088920035,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE4,CPVAE1,0.2996470768394944,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE4,CPVAE2,0.051614010660103994,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE4,CPVAE3,-0.01367256709963218,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE4,CPVAE4,1.0,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE4,CPVAE5,0.06485521649226482,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE4,CPVAE6,0.05348206962628258,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE4,CPVAE7,-0.26181092439788095,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE5,CPVAE1,0.006024671221342642,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE5,CPVAE2,0.1389444680033703,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE5,CPVAE3,0.20279962570459936,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE5,CPVAE4,0.06485521649226482,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE5,CPVAE5,0.9999999999999999,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE5,CPVAE6,-0.224065878279511,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE5,CPVAE7,0.06456682375633528,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE6,CPVAE1,-0.09476482218210838,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE6,CPVAE2,-0.1260838163522275,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE6,CPVAE3,0.026528792712965633,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE6,CPVAE4,0.05348206962628258,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE6,CPVAE5,-0.22406587827951102,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE6,CPVAE6,1.0,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE6,CPVAE7,-0.022475757754713336,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE7,CPVAE1,-0.1883944406338841,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE7,CPVAE2,-0.046172479787500775,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE7,CPVAE3,-0.12618631088920035,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE7,CPVAE4,-0.2618109243978809,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE7,CPVAE5,0.06456682375633528,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE7,CPVAE6,-0.022475757754713336,first_7_programs_from_rank10_fit
+7,weighted CPVAE,CPVAE7,CPVAE7,0.9999999999999999,first_7_programs_from_rank10_fit
+8,PCA,PC1,PC1,1.0,first_8_programs_from_rank10_fit
+8,PCA,PC1,PC2,9.589302028364375e-17,first_8_programs_from_rank10_fit
+8,PCA,PC1,PC3,1.6738146632117187e-16,first_8_programs_from_rank10_fit
+8,PCA,PC1,PC4,1.7727440915743528e-16,first_8_programs_from_rank10_fit
+8,PCA,PC1,PC5,5.453731223259127e-18,first_8_programs_from_rank10_fit
+8,PCA,PC1,PC6,-1.6390020933657362e-16,first_8_programs_from_rank10_fit
+8,PCA,PC1,PC7,1.8593600819041814e-17,first_8_programs_from_rank10_fit
+8,PCA,PC1,PC8,7.042915752966685e-17,first_8_programs_from_rank10_fit
+8,PCA,PC2,PC1,9.589302028364375e-17,first_8_programs_from_rank10_fit
+8,PCA,PC2,PC2,0.9999999999999999,first_8_programs_from_rank10_fit
+8,PCA,PC2,PC3,2.532982623454135e-16,first_8_programs_from_rank10_fit
+8,PCA,PC2,PC4,-1.0808722303223044e-16,first_8_programs_from_rank10_fit
+8,PCA,PC2,PC5,-7.917965574724918e-18,first_8_programs_from_rank10_fit
+8,PCA,PC2,PC6,-8.658875823588397e-18,first_8_programs_from_rank10_fit
+8,PCA,PC2,PC7,-8.5561158335245e-18,first_8_programs_from_rank10_fit
+8,PCA,PC2,PC8,-5.1371817754287775e-17,first_8_programs_from_rank10_fit
+8,PCA,PC3,PC1,1.6738146632117185e-16,first_8_programs_from_rank10_fit
+8,PCA,PC3,PC2,2.532982623454135e-16,first_8_programs_from_rank10_fit
+8,PCA,PC3,PC3,1.0,first_8_programs_from_rank10_fit
+8,PCA,PC3,PC4,6.258944227144384e-16,first_8_programs_from_rank10_fit
+8,PCA,PC3,PC5,-2.1669794547599077e-17,first_8_programs_from_rank10_fit
+8,PCA,PC3,PC6,4.931246052290993e-16,first_8_programs_from_rank10_fit
+8,PCA,PC3,PC7,-7.653487176537637e-17,first_8_programs_from_rank10_fit
+8,PCA,PC3,PC8,-1.3906413729933161e-16,first_8_programs_from_rank10_fit
+8,PCA,PC4,PC1,1.7727440915743526e-16,first_8_programs_from_rank10_fit
+8,PCA,PC4,PC2,-1.0808722303223044e-16,first_8_programs_from_rank10_fit
+8,PCA,PC4,PC3,6.258944227144384e-16,first_8_programs_from_rank10_fit
+8,PCA,PC4,PC4,1.0,first_8_programs_from_rank10_fit
+8,PCA,PC4,PC5,-1.5234067077475774e-17,first_8_programs_from_rank10_fit
+8,PCA,PC4,PC6,-1.5525358564222555e-16,first_8_programs_from_rank10_fit
+8,PCA,PC4,PC7,4.903925064428939e-17,first_8_programs_from_rank10_fit
+8,PCA,PC4,PC8,-3.658794032979111e-17,first_8_programs_from_rank10_fit
+8,PCA,PC5,PC1,5.453731223259126e-18,first_8_programs_from_rank10_fit
+8,PCA,PC5,PC2,-7.91796557472492e-18,first_8_programs_from_rank10_fit
+8,PCA,PC5,PC3,-2.1669794547599077e-17,first_8_programs_from_rank10_fit
+8,PCA,PC5,PC4,-1.523406707747577e-17,first_8_programs_from_rank10_fit
+8,PCA,PC5,PC5,1.0,first_8_programs_from_rank10_fit
+8,PCA,PC5,PC6,-4.2009053576020084e-16,first_8_programs_from_rank10_fit
+8,PCA,PC5,PC7,1.1395490883342878e-16,first_8_programs_from_rank10_fit
+8,PCA,PC5,PC8,-3.040352267958029e-16,first_8_programs_from_rank10_fit
+8,PCA,PC6,PC1,-1.6390020933657362e-16,first_8_programs_from_rank10_fit
+8,PCA,PC6,PC2,-8.658875823588397e-18,first_8_programs_from_rank10_fit
+8,PCA,PC6,PC3,4.931246052290993e-16,first_8_programs_from_rank10_fit
+8,PCA,PC6,PC4,-1.5525358564222555e-16,first_8_programs_from_rank10_fit
+8,PCA,PC6,PC5,-4.2009053576020084e-16,first_8_programs_from_rank10_fit
+8,PCA,PC6,PC6,0.9999999999999999,first_8_programs_from_rank10_fit
+8,PCA,PC6,PC7,1.2235847474548834e-16,first_8_programs_from_rank10_fit
+8,PCA,PC6,PC8,-1.4369816079235098e-16,first_8_programs_from_rank10_fit
+8,PCA,PC7,PC1,1.8593600819041814e-17,first_8_programs_from_rank10_fit
+8,PCA,PC7,PC2,-8.5561158335245e-18,first_8_programs_from_rank10_fit
+8,PCA,PC7,PC3,-7.653487176537636e-17,first_8_programs_from_rank10_fit
+8,PCA,PC7,PC4,4.9039250644289384e-17,first_8_programs_from_rank10_fit
+8,PCA,PC7,PC5,1.1395490883342878e-16,first_8_programs_from_rank10_fit
+8,PCA,PC7,PC6,1.2235847474548834e-16,first_8_programs_from_rank10_fit
+8,PCA,PC7,PC7,1.0,first_8_programs_from_rank10_fit
+8,PCA,PC7,PC8,7.549745033530271e-17,first_8_programs_from_rank10_fit
+8,PCA,PC8,PC1,7.042915752966685e-17,first_8_programs_from_rank10_fit
+8,PCA,PC8,PC2,-5.1371817754287775e-17,first_8_programs_from_rank10_fit
+8,PCA,PC8,PC3,-1.3906413729933161e-16,first_8_programs_from_rank10_fit
+8,PCA,PC8,PC4,-3.658794032979111e-17,first_8_programs_from_rank10_fit
+8,PCA,PC8,PC5,-3.040352267958029e-16,first_8_programs_from_rank10_fit
+8,PCA,PC8,PC6,-1.4369816079235098e-16,first_8_programs_from_rank10_fit
+8,PCA,PC8,PC7,7.549745033530271e-17,first_8_programs_from_rank10_fit
+8,PCA,PC8,PC8,1.0,first_8_programs_from_rank10_fit
+8,CP,CP1,CP1,1.0,first_8_programs_from_rank10_fit
+8,CP,CP1,CP2,-0.13850087059892208,first_8_programs_from_rank10_fit
+8,CP,CP1,CP3,0.08184640315931828,first_8_programs_from_rank10_fit
+8,CP,CP1,CP4,0.0019286395527554365,first_8_programs_from_rank10_fit
+8,CP,CP1,CP5,0.047107829831355814,first_8_programs_from_rank10_fit
+8,CP,CP1,CP6,-0.23270570542032953,first_8_programs_from_rank10_fit
+8,CP,CP1,CP7,-0.027442622668257692,first_8_programs_from_rank10_fit
+8,CP,CP1,CP8,0.16926364338283767,first_8_programs_from_rank10_fit
+8,CP,CP2,CP1,-0.13850087059892208,first_8_programs_from_rank10_fit
+8,CP,CP2,CP2,1.0,first_8_programs_from_rank10_fit
+8,CP,CP2,CP3,-0.19093974304868813,first_8_programs_from_rank10_fit
+8,CP,CP2,CP4,0.279925413000421,first_8_programs_from_rank10_fit
+8,CP,CP2,CP5,0.224955870342643,first_8_programs_from_rank10_fit
+8,CP,CP2,CP6,0.19290614090201166,first_8_programs_from_rank10_fit
+8,CP,CP2,CP7,-0.35060704815166216,first_8_programs_from_rank10_fit
+8,CP,CP2,CP8,-0.1806375789142136,first_8_programs_from_rank10_fit
+8,CP,CP3,CP1,0.08184640315931829,first_8_programs_from_rank10_fit
+8,CP,CP3,CP2,-0.19093974304868813,first_8_programs_from_rank10_fit
+8,CP,CP3,CP3,1.0,first_8_programs_from_rank10_fit
+8,CP,CP3,CP4,0.015602932739432423,first_8_programs_from_rank10_fit
+8,CP,CP3,CP5,-0.014989134481181568,first_8_programs_from_rank10_fit
+8,CP,CP3,CP6,-0.640659460755557,first_8_programs_from_rank10_fit
+8,CP,CP3,CP7,0.6223260317815276,first_8_programs_from_rank10_fit
+8,CP,CP3,CP8,0.5281664029681044,first_8_programs_from_rank10_fit
+8,CP,CP4,CP1,0.0019286395527554365,first_8_programs_from_rank10_fit
+8,CP,CP4,CP2,0.279925413000421,first_8_programs_from_rank10_fit
+8,CP,CP4,CP3,0.015602932739432423,first_8_programs_from_rank10_fit
+8,CP,CP4,CP4,1.0,first_8_programs_from_rank10_fit
+8,CP,CP4,CP5,-0.17546601452661914,first_8_programs_from_rank10_fit
+8,CP,CP4,CP6,-0.0006534955020224407,first_8_programs_from_rank10_fit
+8,CP,CP4,CP7,0.01357156764132668,first_8_programs_from_rank10_fit
+8,CP,CP4,CP8,0.004349684986013656,first_8_programs_from_rank10_fit
+8,CP,CP5,CP1,0.047107829831355814,first_8_programs_from_rank10_fit
+8,CP,CP5,CP2,0.224955870342643,first_8_programs_from_rank10_fit
+8,CP,CP5,CP3,-0.014989134481181568,first_8_programs_from_rank10_fit
+8,CP,CP5,CP4,-0.17546601452661914,first_8_programs_from_rank10_fit
+8,CP,CP5,CP5,1.0,first_8_programs_from_rank10_fit
+8,CP,CP5,CP6,-0.03867703248183282,first_8_programs_from_rank10_fit
+8,CP,CP5,CP7,0.08026075365791743,first_8_programs_from_rank10_fit
+8,CP,CP5,CP8,0.16279920121637487,first_8_programs_from_rank10_fit
+8,CP,CP6,CP1,-0.23270570542032953,first_8_programs_from_rank10_fit
+8,CP,CP6,CP2,0.19290614090201166,first_8_programs_from_rank10_fit
+8,CP,CP6,CP3,-0.640659460755557,first_8_programs_from_rank10_fit
+8,CP,CP6,CP4,-0.0006534955020224408,first_8_programs_from_rank10_fit
+8,CP,CP6,CP5,-0.03867703248183282,first_8_programs_from_rank10_fit
+8,CP,CP6,CP6,1.0,first_8_programs_from_rank10_fit
+8,CP,CP6,CP7,-0.22310135972321027,first_8_programs_from_rank10_fit
+8,CP,CP6,CP8,-0.25432140622946736,first_8_programs_from_rank10_fit
+8,CP,CP7,CP1,-0.027442622668257696,first_8_programs_from_rank10_fit
+8,CP,CP7,CP2,-0.35060704815166216,first_8_programs_from_rank10_fit
+8,CP,CP7,CP3,0.6223260317815277,first_8_programs_from_rank10_fit
+8,CP,CP7,CP4,0.01357156764132668,first_8_programs_from_rank10_fit
+8,CP,CP7,CP5,0.08026075365791743,first_8_programs_from_rank10_fit
+8,CP,CP7,CP6,-0.22310135972321027,first_8_programs_from_rank10_fit
+8,CP,CP7,CP7,0.9999999999999998,first_8_programs_from_rank10_fit
+8,CP,CP7,CP8,0.30100964142142256,first_8_programs_from_rank10_fit
+8,CP,CP8,CP1,0.16926364338283767,first_8_programs_from_rank10_fit
+8,CP,CP8,CP2,-0.1806375789142136,first_8_programs_from_rank10_fit
+8,CP,CP8,CP3,0.5281664029681044,first_8_programs_from_rank10_fit
+8,CP,CP8,CP4,0.004349684986013656,first_8_programs_from_rank10_fit
+8,CP,CP8,CP5,0.16279920121637487,first_8_programs_from_rank10_fit
+8,CP,CP8,CP6,-0.2543214062294674,first_8_programs_from_rank10_fit
+8,CP,CP8,CP7,0.3010096414214226,first_8_programs_from_rank10_fit
+8,CP,CP8,CP8,1.0,first_8_programs_from_rank10_fit
+8,VAE,VAE1,VAE1,0.9999999999999998,first_8_programs_from_rank10_fit
+8,VAE,VAE1,VAE2,0.2036426757592225,first_8_programs_from_rank10_fit
+8,VAE,VAE1,VAE3,0.21639844911000003,first_8_programs_from_rank10_fit
+8,VAE,VAE1,VAE4,0.49763441473547565,first_8_programs_from_rank10_fit
+8,VAE,VAE1,VAE5,-0.7502539838179095,first_8_programs_from_rank10_fit
+8,VAE,VAE1,VAE6,0.07037566198244422,first_8_programs_from_rank10_fit
+8,VAE,VAE1,VAE7,-0.33777202501487585,first_8_programs_from_rank10_fit
+8,VAE,VAE1,VAE8,-0.33773448567806585,first_8_programs_from_rank10_fit
+8,VAE,VAE2,VAE1,0.20364267575922249,first_8_programs_from_rank10_fit
+8,VAE,VAE2,VAE2,1.0,first_8_programs_from_rank10_fit
+8,VAE,VAE2,VAE3,-0.32502206366698905,first_8_programs_from_rank10_fit
+8,VAE,VAE2,VAE4,-0.30549357827814794,first_8_programs_from_rank10_fit
+8,VAE,VAE2,VAE5,-0.1608245192906864,first_8_programs_from_rank10_fit
+8,VAE,VAE2,VAE6,-0.34291594270494985,first_8_programs_from_rank10_fit
+8,VAE,VAE2,VAE7,0.21771240887927457,first_8_programs_from_rank10_fit
+8,VAE,VAE2,VAE8,0.25002800850916973,first_8_programs_from_rank10_fit
+8,VAE,VAE3,VAE1,0.21639844911000006,first_8_programs_from_rank10_fit
+8,VAE,VAE3,VAE2,-0.32502206366698905,first_8_programs_from_rank10_fit
+8,VAE,VAE3,VAE3,1.0,first_8_programs_from_rank10_fit
+8,VAE,VAE3,VAE4,0.8161392622627767,first_8_programs_from_rank10_fit
+8,VAE,VAE3,VAE5,-0.44209533177449944,first_8_programs_from_rank10_fit
+8,VAE,VAE3,VAE6,0.164064287677791,first_8_programs_from_rank10_fit
+8,VAE,VAE3,VAE7,0.042417120645996086,first_8_programs_from_rank10_fit
+8,VAE,VAE3,VAE8,-0.3651566931539697,first_8_programs_from_rank10_fit
+8,VAE,VAE4,VAE1,0.49763441473547565,first_8_programs_from_rank10_fit
+8,VAE,VAE4,VAE2,-0.3054935782781479,first_8_programs_from_rank10_fit
+8,VAE,VAE4,VAE3,0.8161392622627768,first_8_programs_from_rank10_fit
+8,VAE,VAE4,VAE4,0.9999999999999998,first_8_programs_from_rank10_fit
+8,VAE,VAE4,VAE5,-0.3802395169119574,first_8_programs_from_rank10_fit
+8,VAE,VAE4,VAE6,-0.09629749185432263,first_8_programs_from_rank10_fit
+8,VAE,VAE4,VAE7,-0.24557763328351526,first_8_programs_from_rank10_fit
+8,VAE,VAE4,VAE8,-0.6744726462924698,first_8_programs_from_rank10_fit
+8,VAE,VAE5,VAE1,-0.7502539838179095,first_8_programs_from_rank10_fit
+8,VAE,VAE5,VAE2,-0.16082451929068636,first_8_programs_from_rank10_fit
+8,VAE,VAE5,VAE3,-0.44209533177449944,first_8_programs_from_rank10_fit
+8,VAE,VAE5,VAE4,-0.3802395169119574,first_8_programs_from_rank10_fit
+8,VAE,VAE5,VAE5,1.0,first_8_programs_from_rank10_fit
+8,VAE,VAE5,VAE6,-0.32470928933794385,first_8_programs_from_rank10_fit
+8,VAE,VAE5,VAE7,-0.030117368500673578,first_8_programs_from_rank10_fit
+8,VAE,VAE5,VAE8,-0.027540628379086794,first_8_programs_from_rank10_fit
+8,VAE,VAE6,VAE1,0.07037566198244422,first_8_programs_from_rank10_fit
+8,VAE,VAE6,VAE2,-0.3429159427049499,first_8_programs_from_rank10_fit
+8,VAE,VAE6,VAE3,0.164064287677791,first_8_programs_from_rank10_fit
+8,VAE,VAE6,VAE4,-0.09629749185432263,first_8_programs_from_rank10_fit
+8,VAE,VAE6,VAE5,-0.3247092893379439,first_8_programs_from_rank10_fit
+8,VAE,VAE6,VAE6,1.0,first_8_programs_from_rank10_fit
+8,VAE,VAE6,VAE7,-0.32767183436198316,first_8_programs_from_rank10_fit
+8,VAE,VAE6,VAE8,0.03333584323208417,first_8_programs_from_rank10_fit
+8,VAE,VAE7,VAE1,-0.33777202501487585,first_8_programs_from_rank10_fit
+8,VAE,VAE7,VAE2,0.21771240887927457,first_8_programs_from_rank10_fit
+8,VAE,VAE7,VAE3,0.042417120645996086,first_8_programs_from_rank10_fit
+8,VAE,VAE7,VAE4,-0.24557763328351528,first_8_programs_from_rank10_fit
+8,VAE,VAE7,VAE5,-0.030117368500673578,first_8_programs_from_rank10_fit
+8,VAE,VAE7,VAE6,-0.3276718343619832,first_8_programs_from_rank10_fit
+8,VAE,VAE7,VAE7,1.0,first_8_programs_from_rank10_fit
+8,VAE,VAE7,VAE8,0.7145589515006118,first_8_programs_from_rank10_fit
+8,VAE,VAE8,VAE1,-0.33773448567806585,first_8_programs_from_rank10_fit
+8,VAE,VAE8,VAE2,0.25002800850916973,first_8_programs_from_rank10_fit
+8,VAE,VAE8,VAE3,-0.3651566931539697,first_8_programs_from_rank10_fit
+8,VAE,VAE8,VAE4,-0.6744726462924698,first_8_programs_from_rank10_fit
+8,VAE,VAE8,VAE5,-0.027540628379086794,first_8_programs_from_rank10_fit
+8,VAE,VAE8,VAE6,0.03333584323208416,first_8_programs_from_rank10_fit
+8,VAE,VAE8,VAE7,0.7145589515006117,first_8_programs_from_rank10_fit
+8,VAE,VAE8,VAE8,1.0,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE1,CPVAE1,0.9999999999999999,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE1,CPVAE2,0.36465209481615685,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE1,CPVAE3,0.03541023948163845,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE1,CPVAE4,0.2996470768394944,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE1,CPVAE5,0.006024671221342642,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE1,CPVAE6,-0.09476482218210838,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE1,CPVAE7,-0.1883944406338841,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE1,CPVAE8,0.1861084338769507,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE2,CPVAE1,0.3646520948161568,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE2,CPVAE2,0.9999999999999998,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE2,CPVAE3,0.04905780264694462,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE2,CPVAE4,0.051614010660103994,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE2,CPVAE5,0.1389444680033703,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE2,CPVAE6,-0.12608381635222754,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE2,CPVAE7,-0.046172479787500775,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE2,CPVAE8,0.3208443849930877,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE3,CPVAE1,0.035410239481638454,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE3,CPVAE2,0.049057802646944614,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE3,CPVAE3,0.9999999999999998,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE3,CPVAE4,-0.013672567099632181,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE3,CPVAE5,0.20279962570459936,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE3,CPVAE6,0.026528792712965637,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE3,CPVAE7,-0.12618631088920035,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE3,CPVAE8,0.03464961357447025,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE4,CPVAE1,0.2996470768394944,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE4,CPVAE2,0.051614010660103994,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE4,CPVAE3,-0.01367256709963218,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE4,CPVAE4,1.0,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE4,CPVAE5,0.06485521649226482,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE4,CPVAE6,0.05348206962628258,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE4,CPVAE7,-0.26181092439788095,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE4,CPVAE8,0.08951193227490076,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE5,CPVAE1,0.006024671221342642,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE5,CPVAE2,0.1389444680033703,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE5,CPVAE3,0.20279962570459936,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE5,CPVAE4,0.06485521649226482,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE5,CPVAE5,0.9999999999999999,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE5,CPVAE6,-0.224065878279511,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE5,CPVAE7,0.06456682375633528,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE5,CPVAE8,0.1704646863580747,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE6,CPVAE1,-0.09476482218210838,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE6,CPVAE2,-0.1260838163522275,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE6,CPVAE3,0.026528792712965633,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE6,CPVAE4,0.05348206962628258,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE6,CPVAE5,-0.22406587827951102,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE6,CPVAE6,1.0,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE6,CPVAE7,-0.022475757754713336,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE6,CPVAE8,-0.16673736363475117,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE7,CPVAE1,-0.1883944406338841,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE7,CPVAE2,-0.046172479787500775,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE7,CPVAE3,-0.12618631088920035,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE7,CPVAE4,-0.2618109243978809,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE7,CPVAE5,0.06456682375633528,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE7,CPVAE6,-0.022475757754713336,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE7,CPVAE7,0.9999999999999999,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE7,CPVAE8,0.057245117054031555,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE8,CPVAE1,0.18610843387695067,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE8,CPVAE2,0.3208443849930877,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE8,CPVAE3,0.034649613574470245,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE8,CPVAE4,0.08951193227490076,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE8,CPVAE5,0.17046468635807474,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE8,CPVAE6,-0.16673736363475117,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE8,CPVAE7,0.05724511705403155,first_8_programs_from_rank10_fit
+8,weighted CPVAE,CPVAE8,CPVAE8,0.9999999999999999,first_8_programs_from_rank10_fit
+9,PCA,PC1,PC1,1.0,first_9_programs_from_rank10_fit
+9,PCA,PC1,PC2,9.589302028364375e-17,first_9_programs_from_rank10_fit
+9,PCA,PC1,PC3,1.6738146632117187e-16,first_9_programs_from_rank10_fit
+9,PCA,PC1,PC4,1.7727440915743528e-16,first_9_programs_from_rank10_fit
+9,PCA,PC1,PC5,5.453731223259127e-18,first_9_programs_from_rank10_fit
+9,PCA,PC1,PC6,-1.6390020933657362e-16,first_9_programs_from_rank10_fit
+9,PCA,PC1,PC7,1.8593600819041814e-17,first_9_programs_from_rank10_fit
+9,PCA,PC1,PC8,7.042915752966685e-17,first_9_programs_from_rank10_fit
+9,PCA,PC1,PC9,-9.042531404961231e-18,first_9_programs_from_rank10_fit
+9,PCA,PC2,PC1,9.589302028364375e-17,first_9_programs_from_rank10_fit
+9,PCA,PC2,PC2,0.9999999999999999,first_9_programs_from_rank10_fit
+9,PCA,PC2,PC3,2.532982623454135e-16,first_9_programs_from_rank10_fit
+9,PCA,PC2,PC4,-1.0808722303223044e-16,first_9_programs_from_rank10_fit
+9,PCA,PC2,PC5,-7.917965574724918e-18,first_9_programs_from_rank10_fit
+9,PCA,PC2,PC6,-8.658875823588397e-18,first_9_programs_from_rank10_fit
+9,PCA,PC2,PC7,-8.5561158335245e-18,first_9_programs_from_rank10_fit
+9,PCA,PC2,PC8,-5.1371817754287775e-17,first_9_programs_from_rank10_fit
+9,PCA,PC2,PC9,-6.497132910589077e-17,first_9_programs_from_rank10_fit
+9,PCA,PC3,PC1,1.6738146632117185e-16,first_9_programs_from_rank10_fit
+9,PCA,PC3,PC2,2.532982623454135e-16,first_9_programs_from_rank10_fit
+9,PCA,PC3,PC3,1.0,first_9_programs_from_rank10_fit
+9,PCA,PC3,PC4,6.258944227144384e-16,first_9_programs_from_rank10_fit
+9,PCA,PC3,PC5,-2.1669794547599077e-17,first_9_programs_from_rank10_fit
+9,PCA,PC3,PC6,4.931246052290993e-16,first_9_programs_from_rank10_fit
+9,PCA,PC3,PC7,-7.653487176537637e-17,first_9_programs_from_rank10_fit
+9,PCA,PC3,PC8,-1.3906413729933161e-16,first_9_programs_from_rank10_fit
+9,PCA,PC3,PC9,6.819770735782328e-17,first_9_programs_from_rank10_fit
+9,PCA,PC4,PC1,1.7727440915743526e-16,first_9_programs_from_rank10_fit
+9,PCA,PC4,PC2,-1.0808722303223044e-16,first_9_programs_from_rank10_fit
+9,PCA,PC4,PC3,6.258944227144384e-16,first_9_programs_from_rank10_fit
+9,PCA,PC4,PC4,1.0,first_9_programs_from_rank10_fit
+9,PCA,PC4,PC5,-1.5234067077475774e-17,first_9_programs_from_rank10_fit
+9,PCA,PC4,PC6,-1.5525358564222555e-16,first_9_programs_from_rank10_fit
+9,PCA,PC4,PC7,4.903925064428939e-17,first_9_programs_from_rank10_fit
+9,PCA,PC4,PC8,-3.658794032979111e-17,first_9_programs_from_rank10_fit
+9,PCA,PC4,PC9,-3.497281428139089e-17,first_9_programs_from_rank10_fit
+9,PCA,PC5,PC1,5.453731223259126e-18,first_9_programs_from_rank10_fit
+9,PCA,PC5,PC2,-7.91796557472492e-18,first_9_programs_from_rank10_fit
+9,PCA,PC5,PC3,-2.1669794547599077e-17,first_9_programs_from_rank10_fit
+9,PCA,PC5,PC4,-1.523406707747577e-17,first_9_programs_from_rank10_fit
+9,PCA,PC5,PC5,1.0,first_9_programs_from_rank10_fit
+9,PCA,PC5,PC6,-4.2009053576020084e-16,first_9_programs_from_rank10_fit
+9,PCA,PC5,PC7,1.1395490883342878e-16,first_9_programs_from_rank10_fit
+9,PCA,PC5,PC8,-3.040352267958029e-16,first_9_programs_from_rank10_fit
+9,PCA,PC5,PC9,4.24820536867525e-16,first_9_programs_from_rank10_fit
+9,PCA,PC6,PC1,-1.6390020933657362e-16,first_9_programs_from_rank10_fit
+9,PCA,PC6,PC2,-8.658875823588397e-18,first_9_programs_from_rank10_fit
+9,PCA,PC6,PC3,4.931246052290993e-16,first_9_programs_from_rank10_fit
+9,PCA,PC6,PC4,-1.5525358564222555e-16,first_9_programs_from_rank10_fit
+9,PCA,PC6,PC5,-4.2009053576020084e-16,first_9_programs_from_rank10_fit
+9,PCA,PC6,PC6,0.9999999999999999,first_9_programs_from_rank10_fit
+9,PCA,PC6,PC7,1.2235847474548834e-16,first_9_programs_from_rank10_fit
+9,PCA,PC6,PC8,-1.4369816079235098e-16,first_9_programs_from_rank10_fit
+9,PCA,PC6,PC9,3.961856739746531e-17,first_9_programs_from_rank10_fit
+9,PCA,PC7,PC1,1.8593600819041814e-17,first_9_programs_from_rank10_fit
+9,PCA,PC7,PC2,-8.5561158335245e-18,first_9_programs_from_rank10_fit
+9,PCA,PC7,PC3,-7.653487176537636e-17,first_9_programs_from_rank10_fit
+9,PCA,PC7,PC4,4.9039250644289384e-17,first_9_programs_from_rank10_fit
+9,PCA,PC7,PC5,1.1395490883342878e-16,first_9_programs_from_rank10_fit
+9,PCA,PC7,PC6,1.2235847474548834e-16,first_9_programs_from_rank10_fit
+9,PCA,PC7,PC7,1.0,first_9_programs_from_rank10_fit
+9,PCA,PC7,PC8,7.549745033530271e-17,first_9_programs_from_rank10_fit
+9,PCA,PC7,PC9,-2.847162533052894e-17,first_9_programs_from_rank10_fit
+9,PCA,PC8,PC1,7.042915752966685e-17,first_9_programs_from_rank10_fit
+9,PCA,PC8,PC2,-5.1371817754287775e-17,first_9_programs_from_rank10_fit
+9,PCA,PC8,PC3,-1.3906413729933161e-16,first_9_programs_from_rank10_fit
+9,PCA,PC8,PC4,-3.658794032979111e-17,first_9_programs_from_rank10_fit
+9,PCA,PC8,PC5,-3.040352267958029e-16,first_9_programs_from_rank10_fit
+9,PCA,PC8,PC6,-1.4369816079235098e-16,first_9_programs_from_rank10_fit
+9,PCA,PC8,PC7,7.549745033530271e-17,first_9_programs_from_rank10_fit
+9,PCA,PC8,PC8,1.0,first_9_programs_from_rank10_fit
+9,PCA,PC8,PC9,3.220449290931395e-17,first_9_programs_from_rank10_fit
+9,PCA,PC9,PC1,-9.042531404961231e-18,first_9_programs_from_rank10_fit
+9,PCA,PC9,PC2,-6.497132910589077e-17,first_9_programs_from_rank10_fit
+9,PCA,PC9,PC3,6.819770735782329e-17,first_9_programs_from_rank10_fit
+9,PCA,PC9,PC4,-3.4972814281390884e-17,first_9_programs_from_rank10_fit
+9,PCA,PC9,PC5,4.2482053686752497e-16,first_9_programs_from_rank10_fit
+9,PCA,PC9,PC6,3.961856739746531e-17,first_9_programs_from_rank10_fit
+9,PCA,PC9,PC7,-2.847162533052894e-17,first_9_programs_from_rank10_fit
+9,PCA,PC9,PC8,3.2204492909313943e-17,first_9_programs_from_rank10_fit
+9,PCA,PC9,PC9,1.0,first_9_programs_from_rank10_fit
+9,CP,CP1,CP1,1.0,first_9_programs_from_rank10_fit
+9,CP,CP1,CP2,-0.13850087059892208,first_9_programs_from_rank10_fit
+9,CP,CP1,CP3,0.08184640315931828,first_9_programs_from_rank10_fit
+9,CP,CP1,CP4,0.0019286395527554365,first_9_programs_from_rank10_fit
+9,CP,CP1,CP5,0.047107829831355814,first_9_programs_from_rank10_fit
+9,CP,CP1,CP6,-0.23270570542032953,first_9_programs_from_rank10_fit
+9,CP,CP1,CP7,-0.027442622668257692,first_9_programs_from_rank10_fit
+9,CP,CP1,CP8,0.16926364338283767,first_9_programs_from_rank10_fit
+9,CP,CP1,CP9,0.053265778716860446,first_9_programs_from_rank10_fit
+9,CP,CP2,CP1,-0.13850087059892208,first_9_programs_from_rank10_fit
+9,CP,CP2,CP2,1.0,first_9_programs_from_rank10_fit
+9,CP,CP2,CP3,-0.19093974304868813,first_9_programs_from_rank10_fit
+9,CP,CP2,CP4,0.279925413000421,first_9_programs_from_rank10_fit
+9,CP,CP2,CP5,0.224955870342643,first_9_programs_from_rank10_fit
+9,CP,CP2,CP6,0.19290614090201166,first_9_programs_from_rank10_fit
+9,CP,CP2,CP7,-0.35060704815166216,first_9_programs_from_rank10_fit
+9,CP,CP2,CP8,-0.1806375789142136,first_9_programs_from_rank10_fit
+9,CP,CP2,CP9,-0.07161801617621298,first_9_programs_from_rank10_fit
+9,CP,CP3,CP1,0.08184640315931829,first_9_programs_from_rank10_fit
+9,CP,CP3,CP2,-0.19093974304868813,first_9_programs_from_rank10_fit
+9,CP,CP3,CP3,1.0,first_9_programs_from_rank10_fit
+9,CP,CP3,CP4,0.015602932739432423,first_9_programs_from_rank10_fit
+9,CP,CP3,CP5,-0.014989134481181568,first_9_programs_from_rank10_fit
+9,CP,CP3,CP6,-0.640659460755557,first_9_programs_from_rank10_fit
+9,CP,CP3,CP7,0.6223260317815276,first_9_programs_from_rank10_fit
+9,CP,CP3,CP8,0.5281664029681044,first_9_programs_from_rank10_fit
+9,CP,CP3,CP9,0.22837763134950262,first_9_programs_from_rank10_fit
+9,CP,CP4,CP1,0.0019286395527554365,first_9_programs_from_rank10_fit
+9,CP,CP4,CP2,0.279925413000421,first_9_programs_from_rank10_fit
+9,CP,CP4,CP3,0.015602932739432423,first_9_programs_from_rank10_fit
+9,CP,CP4,CP4,1.0,first_9_programs_from_rank10_fit
+9,CP,CP4,CP5,-0.17546601452661914,first_9_programs_from_rank10_fit
+9,CP,CP4,CP6,-0.0006534955020224407,first_9_programs_from_rank10_fit
+9,CP,CP4,CP7,0.01357156764132668,first_9_programs_from_rank10_fit
+9,CP,CP4,CP8,0.004349684986013656,first_9_programs_from_rank10_fit
+9,CP,CP4,CP9,0.035409048350589244,first_9_programs_from_rank10_fit
+9,CP,CP5,CP1,0.047107829831355814,first_9_programs_from_rank10_fit
+9,CP,CP5,CP2,0.224955870342643,first_9_programs_from_rank10_fit
+9,CP,CP5,CP3,-0.014989134481181568,first_9_programs_from_rank10_fit
+9,CP,CP5,CP4,-0.17546601452661914,first_9_programs_from_rank10_fit
+9,CP,CP5,CP5,1.0,first_9_programs_from_rank10_fit
+9,CP,CP5,CP6,-0.03867703248183282,first_9_programs_from_rank10_fit
+9,CP,CP5,CP7,0.08026075365791743,first_9_programs_from_rank10_fit
+9,CP,CP5,CP8,0.16279920121637487,first_9_programs_from_rank10_fit
+9,CP,CP5,CP9,-0.43864960499264277,first_9_programs_from_rank10_fit
+9,CP,CP6,CP1,-0.23270570542032953,first_9_programs_from_rank10_fit
+9,CP,CP6,CP2,0.19290614090201166,first_9_programs_from_rank10_fit
+9,CP,CP6,CP3,-0.640659460755557,first_9_programs_from_rank10_fit
+9,CP,CP6,CP4,-0.0006534955020224408,first_9_programs_from_rank10_fit
+9,CP,CP6,CP5,-0.03867703248183282,first_9_programs_from_rank10_fit
+9,CP,CP6,CP6,1.0,first_9_programs_from_rank10_fit
+9,CP,CP6,CP7,-0.22310135972321027,first_9_programs_from_rank10_fit
+9,CP,CP6,CP8,-0.25432140622946736,first_9_programs_from_rank10_fit
+9,CP,CP6,CP9,0.04017351802346767,first_9_programs_from_rank10_fit
+9,CP,CP7,CP1,-0.027442622668257696,first_9_programs_from_rank10_fit
+9,CP,CP7,CP2,-0.35060704815166216,first_9_programs_from_rank10_fit
+9,CP,CP7,CP3,0.6223260317815277,first_9_programs_from_rank10_fit
+9,CP,CP7,CP4,0.01357156764132668,first_9_programs_from_rank10_fit
+9,CP,CP7,CP5,0.08026075365791743,first_9_programs_from_rank10_fit
+9,CP,CP7,CP6,-0.22310135972321027,first_9_programs_from_rank10_fit
+9,CP,CP7,CP7,0.9999999999999998,first_9_programs_from_rank10_fit
+9,CP,CP7,CP8,0.30100964142142256,first_9_programs_from_rank10_fit
+9,CP,CP7,CP9,0.28588810940072845,first_9_programs_from_rank10_fit
+9,CP,CP8,CP1,0.16926364338283767,first_9_programs_from_rank10_fit
+9,CP,CP8,CP2,-0.1806375789142136,first_9_programs_from_rank10_fit
+9,CP,CP8,CP3,0.5281664029681044,first_9_programs_from_rank10_fit
+9,CP,CP8,CP4,0.004349684986013656,first_9_programs_from_rank10_fit
+9,CP,CP8,CP5,0.16279920121637487,first_9_programs_from_rank10_fit
+9,CP,CP8,CP6,-0.2543214062294674,first_9_programs_from_rank10_fit
+9,CP,CP8,CP7,0.3010096414214226,first_9_programs_from_rank10_fit
+9,CP,CP8,CP8,1.0,first_9_programs_from_rank10_fit
+9,CP,CP8,CP9,0.015439108594590812,first_9_programs_from_rank10_fit
+9,CP,CP9,CP1,0.053265778716860446,first_9_programs_from_rank10_fit
+9,CP,CP9,CP2,-0.07161801617621298,first_9_programs_from_rank10_fit
+9,CP,CP9,CP3,0.22837763134950262,first_9_programs_from_rank10_fit
+9,CP,CP9,CP4,0.035409048350589244,first_9_programs_from_rank10_fit
+9,CP,CP9,CP5,-0.43864960499264277,first_9_programs_from_rank10_fit
+9,CP,CP9,CP6,0.04017351802346767,first_9_programs_from_rank10_fit
+9,CP,CP9,CP7,0.28588810940072845,first_9_programs_from_rank10_fit
+9,CP,CP9,CP8,0.015439108594590812,first_9_programs_from_rank10_fit
+9,CP,CP9,CP9,0.9999999999999999,first_9_programs_from_rank10_fit
+9,VAE,VAE1,VAE1,0.9999999999999998,first_9_programs_from_rank10_fit
+9,VAE,VAE1,VAE2,0.2036426757592225,first_9_programs_from_rank10_fit
+9,VAE,VAE1,VAE3,0.21639844911000003,first_9_programs_from_rank10_fit
+9,VAE,VAE1,VAE4,0.49763441473547565,first_9_programs_from_rank10_fit
+9,VAE,VAE1,VAE5,-0.7502539838179095,first_9_programs_from_rank10_fit
+9,VAE,VAE1,VAE6,0.07037566198244422,first_9_programs_from_rank10_fit
+9,VAE,VAE1,VAE7,-0.33777202501487585,first_9_programs_from_rank10_fit
+9,VAE,VAE1,VAE8,-0.33773448567806585,first_9_programs_from_rank10_fit
+9,VAE,VAE1,VAE9,0.7054289464372352,first_9_programs_from_rank10_fit
+9,VAE,VAE2,VAE1,0.20364267575922249,first_9_programs_from_rank10_fit
+9,VAE,VAE2,VAE2,1.0,first_9_programs_from_rank10_fit
+9,VAE,VAE2,VAE3,-0.32502206366698905,first_9_programs_from_rank10_fit
+9,VAE,VAE2,VAE4,-0.30549357827814794,first_9_programs_from_rank10_fit
+9,VAE,VAE2,VAE5,-0.1608245192906864,first_9_programs_from_rank10_fit
+9,VAE,VAE2,VAE6,-0.34291594270494985,first_9_programs_from_rank10_fit
+9,VAE,VAE2,VAE7,0.21771240887927457,first_9_programs_from_rank10_fit
+9,VAE,VAE2,VAE8,0.25002800850916973,first_9_programs_from_rank10_fit
+9,VAE,VAE2,VAE9,0.1815379256723592,first_9_programs_from_rank10_fit
+9,VAE,VAE3,VAE1,0.21639844911000006,first_9_programs_from_rank10_fit
+9,VAE,VAE3,VAE2,-0.32502206366698905,first_9_programs_from_rank10_fit
+9,VAE,VAE3,VAE3,1.0,first_9_programs_from_rank10_fit
+9,VAE,VAE3,VAE4,0.8161392622627767,first_9_programs_from_rank10_fit
+9,VAE,VAE3,VAE5,-0.44209533177449944,first_9_programs_from_rank10_fit
+9,VAE,VAE3,VAE6,0.164064287677791,first_9_programs_from_rank10_fit
+9,VAE,VAE3,VAE7,0.042417120645996086,first_9_programs_from_rank10_fit
+9,VAE,VAE3,VAE8,-0.3651566931539697,first_9_programs_from_rank10_fit
+9,VAE,VAE3,VAE9,0.6066690620870493,first_9_programs_from_rank10_fit
+9,VAE,VAE4,VAE1,0.49763441473547565,first_9_programs_from_rank10_fit
+9,VAE,VAE4,VAE2,-0.3054935782781479,first_9_programs_from_rank10_fit
+9,VAE,VAE4,VAE3,0.8161392622627768,first_9_programs_from_rank10_fit
+9,VAE,VAE4,VAE4,0.9999999999999998,first_9_programs_from_rank10_fit
+9,VAE,VAE4,VAE5,-0.3802395169119574,first_9_programs_from_rank10_fit
+9,VAE,VAE4,VAE6,-0.09629749185432263,first_9_programs_from_rank10_fit
+9,VAE,VAE4,VAE7,-0.24557763328351526,first_9_programs_from_rank10_fit
+9,VAE,VAE4,VAE8,-0.6744726462924698,first_9_programs_from_rank10_fit
+9,VAE,VAE4,VAE9,0.6294315822463468,first_9_programs_from_rank10_fit
+9,VAE,VAE5,VAE1,-0.7502539838179095,first_9_programs_from_rank10_fit
+9,VAE,VAE5,VAE2,-0.16082451929068636,first_9_programs_from_rank10_fit
+9,VAE,VAE5,VAE3,-0.44209533177449944,first_9_programs_from_rank10_fit
+9,VAE,VAE5,VAE4,-0.3802395169119574,first_9_programs_from_rank10_fit
+9,VAE,VAE5,VAE5,1.0,first_9_programs_from_rank10_fit
+9,VAE,VAE5,VAE6,-0.32470928933794385,first_9_programs_from_rank10_fit
+9,VAE,VAE5,VAE7,-0.030117368500673578,first_9_programs_from_rank10_fit
+9,VAE,VAE5,VAE8,-0.027540628379086794,first_9_programs_from_rank10_fit
+9,VAE,VAE5,VAE9,-0.8249554177743148,first_9_programs_from_rank10_fit
+9,VAE,VAE6,VAE1,0.07037566198244422,first_9_programs_from_rank10_fit
+9,VAE,VAE6,VAE2,-0.3429159427049499,first_9_programs_from_rank10_fit
+9,VAE,VAE6,VAE3,0.164064287677791,first_9_programs_from_rank10_fit
+9,VAE,VAE6,VAE4,-0.09629749185432263,first_9_programs_from_rank10_fit
+9,VAE,VAE6,VAE5,-0.3247092893379439,first_9_programs_from_rank10_fit
+9,VAE,VAE6,VAE6,1.0,first_9_programs_from_rank10_fit
+9,VAE,VAE6,VAE7,-0.32767183436198316,first_9_programs_from_rank10_fit
+9,VAE,VAE6,VAE8,0.03333584323208417,first_9_programs_from_rank10_fit
+9,VAE,VAE6,VAE9,-0.07416235151729687,first_9_programs_from_rank10_fit
+9,VAE,VAE7,VAE1,-0.33777202501487585,first_9_programs_from_rank10_fit
+9,VAE,VAE7,VAE2,0.21771240887927457,first_9_programs_from_rank10_fit
+9,VAE,VAE7,VAE3,0.042417120645996086,first_9_programs_from_rank10_fit
+9,VAE,VAE7,VAE4,-0.24557763328351528,first_9_programs_from_rank10_fit
+9,VAE,VAE7,VAE5,-0.030117368500673578,first_9_programs_from_rank10_fit
+9,VAE,VAE7,VAE6,-0.3276718343619832,first_9_programs_from_rank10_fit
+9,VAE,VAE7,VAE7,1.0,first_9_programs_from_rank10_fit
+9,VAE,VAE7,VAE8,0.7145589515006118,first_9_programs_from_rank10_fit
+9,VAE,VAE7,VAE9,0.06764644338699329,first_9_programs_from_rank10_fit
+9,VAE,VAE8,VAE1,-0.33773448567806585,first_9_programs_from_rank10_fit
+9,VAE,VAE8,VAE2,0.25002800850916973,first_9_programs_from_rank10_fit
+9,VAE,VAE8,VAE3,-0.3651566931539697,first_9_programs_from_rank10_fit
+9,VAE,VAE8,VAE4,-0.6744726462924698,first_9_programs_from_rank10_fit
+9,VAE,VAE8,VAE5,-0.027540628379086794,first_9_programs_from_rank10_fit
+9,VAE,VAE8,VAE6,0.03333584323208416,first_9_programs_from_rank10_fit
+9,VAE,VAE8,VAE7,0.7145589515006117,first_9_programs_from_rank10_fit
+9,VAE,VAE8,VAE8,1.0,first_9_programs_from_rank10_fit
+9,VAE,VAE8,VAE9,-0.1447461816739637,first_9_programs_from_rank10_fit
+9,VAE,VAE9,VAE1,0.7054289464372353,first_9_programs_from_rank10_fit
+9,VAE,VAE9,VAE2,0.1815379256723592,first_9_programs_from_rank10_fit
+9,VAE,VAE9,VAE3,0.6066690620870493,first_9_programs_from_rank10_fit
+9,VAE,VAE9,VAE4,0.6294315822463469,first_9_programs_from_rank10_fit
+9,VAE,VAE9,VAE5,-0.8249554177743147,first_9_programs_from_rank10_fit
+9,VAE,VAE9,VAE6,-0.07416235151729687,first_9_programs_from_rank10_fit
+9,VAE,VAE9,VAE7,0.06764644338699327,first_9_programs_from_rank10_fit
+9,VAE,VAE9,VAE8,-0.1447461816739637,first_9_programs_from_rank10_fit
+9,VAE,VAE9,VAE9,1.0,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE1,CPVAE1,0.9999999999999999,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE1,CPVAE2,0.36465209481615685,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE1,CPVAE3,0.03541023948163845,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE1,CPVAE4,0.2996470768394944,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE1,CPVAE5,0.006024671221342642,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE1,CPVAE6,-0.09476482218210838,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE1,CPVAE7,-0.1883944406338841,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE1,CPVAE8,0.1861084338769507,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE1,CPVAE9,0.0017287211363013787,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE2,CPVAE1,0.3646520948161568,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE2,CPVAE2,0.9999999999999998,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE2,CPVAE3,0.04905780264694462,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE2,CPVAE4,0.051614010660103994,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE2,CPVAE5,0.1389444680033703,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE2,CPVAE6,-0.12608381635222754,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE2,CPVAE7,-0.046172479787500775,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE2,CPVAE8,0.3208443849930877,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE2,CPVAE9,0.3023059370269759,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE3,CPVAE1,0.035410239481638454,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE3,CPVAE2,0.049057802646944614,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE3,CPVAE3,0.9999999999999998,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE3,CPVAE4,-0.013672567099632181,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE3,CPVAE5,0.20279962570459936,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE3,CPVAE6,0.026528792712965637,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE3,CPVAE7,-0.12618631088920035,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE3,CPVAE8,0.03464961357447025,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE3,CPVAE9,0.21805316225919072,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE4,CPVAE1,0.2996470768394944,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE4,CPVAE2,0.051614010660103994,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE4,CPVAE3,-0.01367256709963218,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE4,CPVAE4,1.0,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE4,CPVAE5,0.06485521649226482,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE4,CPVAE6,0.05348206962628258,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE4,CPVAE7,-0.26181092439788095,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE4,CPVAE8,0.08951193227490076,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE4,CPVAE9,0.31578099714781765,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE5,CPVAE1,0.006024671221342642,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE5,CPVAE2,0.1389444680033703,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE5,CPVAE3,0.20279962570459936,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE5,CPVAE4,0.06485521649226482,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE5,CPVAE5,0.9999999999999999,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE5,CPVAE6,-0.224065878279511,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE5,CPVAE7,0.06456682375633528,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE5,CPVAE8,0.1704646863580747,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE5,CPVAE9,0.2612650499377381,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE6,CPVAE1,-0.09476482218210838,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE6,CPVAE2,-0.1260838163522275,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE6,CPVAE3,0.026528792712965633,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE6,CPVAE4,0.05348206962628258,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE6,CPVAE5,-0.22406587827951102,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE6,CPVAE6,1.0,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE6,CPVAE7,-0.022475757754713336,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE6,CPVAE8,-0.16673736363475117,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE6,CPVAE9,-0.17051158667489175,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE7,CPVAE1,-0.1883944406338841,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE7,CPVAE2,-0.046172479787500775,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE7,CPVAE3,-0.12618631088920035,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE7,CPVAE4,-0.2618109243978809,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE7,CPVAE5,0.06456682375633528,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE7,CPVAE6,-0.022475757754713336,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE7,CPVAE7,0.9999999999999999,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE7,CPVAE8,0.057245117054031555,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE7,CPVAE9,0.24711056800242254,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE8,CPVAE1,0.18610843387695067,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE8,CPVAE2,0.3208443849930877,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE8,CPVAE3,0.034649613574470245,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE8,CPVAE4,0.08951193227490076,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE8,CPVAE5,0.17046468635807474,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE8,CPVAE6,-0.16673736363475117,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE8,CPVAE7,0.05724511705403155,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE8,CPVAE8,0.9999999999999999,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE8,CPVAE9,0.37027949941401406,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE9,CPVAE1,0.0017287211363013787,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE9,CPVAE2,0.3023059370269759,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE9,CPVAE3,0.2180531622591907,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE9,CPVAE4,0.3157809971478177,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE9,CPVAE5,0.2612650499377381,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE9,CPVAE6,-0.17051158667489175,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE9,CPVAE7,0.24711056800242254,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE9,CPVAE8,0.37027949941401406,first_9_programs_from_rank10_fit
+9,weighted CPVAE,CPVAE9,CPVAE9,0.9999999999999998,first_9_programs_from_rank10_fit
+10,PCA,PC1,PC1,1.0,first_10_programs_from_rank10_fit
+10,PCA,PC1,PC2,9.589302028364375e-17,first_10_programs_from_rank10_fit
+10,PCA,PC1,PC3,1.6738146632117187e-16,first_10_programs_from_rank10_fit
+10,PCA,PC1,PC4,1.7727440915743528e-16,first_10_programs_from_rank10_fit
+10,PCA,PC1,PC5,5.453731223259127e-18,first_10_programs_from_rank10_fit
+10,PCA,PC1,PC6,-1.6390020933657362e-16,first_10_programs_from_rank10_fit
+10,PCA,PC1,PC7,1.8593600819041814e-17,first_10_programs_from_rank10_fit
+10,PCA,PC1,PC8,7.042915752966685e-17,first_10_programs_from_rank10_fit
+10,PCA,PC1,PC9,-9.042531404961231e-18,first_10_programs_from_rank10_fit
+10,PCA,PC1,PC10,-4.31153678528369e-17,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC1,9.589302028364375e-17,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC2,0.9999999999999999,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC3,2.532982623454135e-16,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC4,-1.0808722303223044e-16,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC5,-7.917965574724918e-18,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC6,-8.658875823588397e-18,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC7,-8.5561158335245e-18,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC8,-5.1371817754287775e-17,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC9,-6.497132910589077e-17,first_10_programs_from_rank10_fit
+10,PCA,PC2,PC10,-3.860106789779965e-17,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC1,1.6738146632117185e-16,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC2,2.532982623454135e-16,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC3,1.0,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC4,6.258944227144384e-16,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC5,-2.1669794547599077e-17,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC6,4.931246052290993e-16,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC7,-7.653487176537637e-17,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC8,-1.3906413729933161e-16,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC9,6.819770735782328e-17,first_10_programs_from_rank10_fit
+10,PCA,PC3,PC10,-2.428041654226239e-18,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC1,1.7727440915743526e-16,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC2,-1.0808722303223044e-16,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC3,6.258944227144384e-16,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC4,1.0,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC5,-1.5234067077475774e-17,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC6,-1.5525358564222555e-16,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC7,4.903925064428939e-17,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC8,-3.658794032979111e-17,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC9,-3.497281428139089e-17,first_10_programs_from_rank10_fit
+10,PCA,PC4,PC10,-5.032860570705432e-17,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC1,5.453731223259126e-18,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC2,-7.91796557472492e-18,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC3,-2.1669794547599077e-17,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC4,-1.523406707747577e-17,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC5,1.0,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC6,-4.2009053576020084e-16,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC7,1.1395490883342878e-16,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC8,-3.040352267958029e-16,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC9,4.24820536867525e-16,first_10_programs_from_rank10_fit
+10,PCA,PC5,PC10,-3.824778359507743e-16,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC1,-1.6390020933657362e-16,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC2,-8.658875823588397e-18,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC3,4.931246052290993e-16,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC4,-1.5525358564222555e-16,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC5,-4.2009053576020084e-16,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC6,0.9999999999999999,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC7,1.2235847474548834e-16,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC8,-1.4369816079235098e-16,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC9,3.961856739746531e-17,first_10_programs_from_rank10_fit
+10,PCA,PC6,PC10,-9.377055643735249e-18,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC1,1.8593600819041814e-17,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC2,-8.5561158335245e-18,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC3,-7.653487176537636e-17,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC4,4.9039250644289384e-17,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC5,1.1395490883342878e-16,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC6,1.2235847474548834e-16,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC7,1.0,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC8,7.549745033530271e-17,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC9,-2.847162533052894e-17,first_10_programs_from_rank10_fit
+10,PCA,PC7,PC10,-8.969423495508562e-17,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC1,7.042915752966685e-17,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC2,-5.1371817754287775e-17,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC3,-1.3906413729933161e-16,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC4,-3.658794032979111e-17,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC5,-3.040352267958029e-16,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC6,-1.4369816079235098e-16,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC7,7.549745033530271e-17,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC8,1.0,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC9,3.220449290931395e-17,first_10_programs_from_rank10_fit
+10,PCA,PC8,PC10,6.122158301528581e-17,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC1,-9.042531404961231e-18,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC2,-6.497132910589077e-17,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC3,6.819770735782329e-17,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC4,-3.4972814281390884e-17,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC5,4.2482053686752497e-16,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC6,3.961856739746531e-17,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC7,-2.847162533052894e-17,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC8,3.2204492909313943e-17,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC9,1.0,first_10_programs_from_rank10_fit
+10,PCA,PC9,PC10,-1.8108620514525303e-16,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC1,-4.3115367852836905e-17,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC2,-3.8601067897799647e-17,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC3,-2.428041654226239e-18,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC4,-5.032860570705431e-17,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC5,-3.824778359507743e-16,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC6,-9.37705564373525e-18,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC7,-8.969423495508562e-17,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC8,6.12215830152858e-17,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC9,-1.8108620514525303e-16,first_10_programs_from_rank10_fit
+10,PCA,PC10,PC10,1.0,first_10_programs_from_rank10_fit
+10,CP,CP1,CP1,1.0,first_10_programs_from_rank10_fit
+10,CP,CP1,CP2,-0.13850087059892208,first_10_programs_from_rank10_fit
+10,CP,CP1,CP3,0.08184640315931828,first_10_programs_from_rank10_fit
+10,CP,CP1,CP4,0.0019286395527554365,first_10_programs_from_rank10_fit
+10,CP,CP1,CP5,0.047107829831355814,first_10_programs_from_rank10_fit
+10,CP,CP1,CP6,-0.23270570542032953,first_10_programs_from_rank10_fit
+10,CP,CP1,CP7,-0.027442622668257692,first_10_programs_from_rank10_fit
+10,CP,CP1,CP8,0.16926364338283767,first_10_programs_from_rank10_fit
+10,CP,CP1,CP9,0.053265778716860446,first_10_programs_from_rank10_fit
+10,CP,CP1,CP10,-0.20376088286391675,first_10_programs_from_rank10_fit
+10,CP,CP2,CP1,-0.13850087059892208,first_10_programs_from_rank10_fit
+10,CP,CP2,CP2,1.0,first_10_programs_from_rank10_fit
+10,CP,CP2,CP3,-0.19093974304868813,first_10_programs_from_rank10_fit
+10,CP,CP2,CP4,0.279925413000421,first_10_programs_from_rank10_fit
+10,CP,CP2,CP5,0.224955870342643,first_10_programs_from_rank10_fit
+10,CP,CP2,CP6,0.19290614090201166,first_10_programs_from_rank10_fit
+10,CP,CP2,CP7,-0.35060704815166216,first_10_programs_from_rank10_fit
+10,CP,CP2,CP8,-0.1806375789142136,first_10_programs_from_rank10_fit
+10,CP,CP2,CP9,-0.07161801617621298,first_10_programs_from_rank10_fit
+10,CP,CP2,CP10,0.3244883598844622,first_10_programs_from_rank10_fit
+10,CP,CP3,CP1,0.08184640315931829,first_10_programs_from_rank10_fit
+10,CP,CP3,CP2,-0.19093974304868813,first_10_programs_from_rank10_fit
+10,CP,CP3,CP3,1.0,first_10_programs_from_rank10_fit
+10,CP,CP3,CP4,0.015602932739432423,first_10_programs_from_rank10_fit
+10,CP,CP3,CP5,-0.014989134481181568,first_10_programs_from_rank10_fit
+10,CP,CP3,CP6,-0.640659460755557,first_10_programs_from_rank10_fit
+10,CP,CP3,CP7,0.6223260317815276,first_10_programs_from_rank10_fit
+10,CP,CP3,CP8,0.5281664029681044,first_10_programs_from_rank10_fit
+10,CP,CP3,CP9,0.22837763134950262,first_10_programs_from_rank10_fit
+10,CP,CP3,CP10,0.0208390164918411,first_10_programs_from_rank10_fit
+10,CP,CP4,CP1,0.0019286395527554365,first_10_programs_from_rank10_fit
+10,CP,CP4,CP2,0.279925413000421,first_10_programs_from_rank10_fit
+10,CP,CP4,CP3,0.015602932739432423,first_10_programs_from_rank10_fit
+10,CP,CP4,CP4,1.0,first_10_programs_from_rank10_fit
+10,CP,CP4,CP5,-0.17546601452661914,first_10_programs_from_rank10_fit
+10,CP,CP4,CP6,-0.0006534955020224407,first_10_programs_from_rank10_fit
+10,CP,CP4,CP7,0.01357156764132668,first_10_programs_from_rank10_fit
+10,CP,CP4,CP8,0.004349684986013656,first_10_programs_from_rank10_fit
+10,CP,CP4,CP9,0.035409048350589244,first_10_programs_from_rank10_fit
+10,CP,CP4,CP10,0.0034720741453714314,first_10_programs_from_rank10_fit
+10,CP,CP5,CP1,0.047107829831355814,first_10_programs_from_rank10_fit
+10,CP,CP5,CP2,0.224955870342643,first_10_programs_from_rank10_fit
+10,CP,CP5,CP3,-0.014989134481181568,first_10_programs_from_rank10_fit
+10,CP,CP5,CP4,-0.17546601452661914,first_10_programs_from_rank10_fit
+10,CP,CP5,CP5,1.0,first_10_programs_from_rank10_fit
+10,CP,CP5,CP6,-0.03867703248183282,first_10_programs_from_rank10_fit
+10,CP,CP5,CP7,0.08026075365791743,first_10_programs_from_rank10_fit
+10,CP,CP5,CP8,0.16279920121637487,first_10_programs_from_rank10_fit
+10,CP,CP5,CP9,-0.43864960499264277,first_10_programs_from_rank10_fit
+10,CP,CP5,CP10,-0.13047872898850582,first_10_programs_from_rank10_fit
+10,CP,CP6,CP1,-0.23270570542032953,first_10_programs_from_rank10_fit
+10,CP,CP6,CP2,0.19290614090201166,first_10_programs_from_rank10_fit
+10,CP,CP6,CP3,-0.640659460755557,first_10_programs_from_rank10_fit
+10,CP,CP6,CP4,-0.0006534955020224408,first_10_programs_from_rank10_fit
+10,CP,CP6,CP5,-0.03867703248183282,first_10_programs_from_rank10_fit
+10,CP,CP6,CP6,1.0,first_10_programs_from_rank10_fit
+10,CP,CP6,CP7,-0.22310135972321027,first_10_programs_from_rank10_fit
+10,CP,CP6,CP8,-0.25432140622946736,first_10_programs_from_rank10_fit
+10,CP,CP6,CP9,0.04017351802346767,first_10_programs_from_rank10_fit
+10,CP,CP6,CP10,0.3192482928567784,first_10_programs_from_rank10_fit
+10,CP,CP7,CP1,-0.027442622668257696,first_10_programs_from_rank10_fit
+10,CP,CP7,CP2,-0.35060704815166216,first_10_programs_from_rank10_fit
+10,CP,CP7,CP3,0.6223260317815277,first_10_programs_from_rank10_fit
+10,CP,CP7,CP4,0.01357156764132668,first_10_programs_from_rank10_fit
+10,CP,CP7,CP5,0.08026075365791743,first_10_programs_from_rank10_fit
+10,CP,CP7,CP6,-0.22310135972321027,first_10_programs_from_rank10_fit
+10,CP,CP7,CP7,0.9999999999999998,first_10_programs_from_rank10_fit
+10,CP,CP7,CP8,0.30100964142142256,first_10_programs_from_rank10_fit
+10,CP,CP7,CP9,0.28588810940072845,first_10_programs_from_rank10_fit
+10,CP,CP7,CP10,-0.2787751227386154,first_10_programs_from_rank10_fit
+10,CP,CP8,CP1,0.16926364338283767,first_10_programs_from_rank10_fit
+10,CP,CP8,CP2,-0.1806375789142136,first_10_programs_from_rank10_fit
+10,CP,CP8,CP3,0.5281664029681044,first_10_programs_from_rank10_fit
+10,CP,CP8,CP4,0.004349684986013656,first_10_programs_from_rank10_fit
+10,CP,CP8,CP5,0.16279920121637487,first_10_programs_from_rank10_fit
+10,CP,CP8,CP6,-0.2543214062294674,first_10_programs_from_rank10_fit
+10,CP,CP8,CP7,0.3010096414214226,first_10_programs_from_rank10_fit
+10,CP,CP8,CP8,1.0,first_10_programs_from_rank10_fit
+10,CP,CP8,CP9,0.015439108594590812,first_10_programs_from_rank10_fit
+10,CP,CP8,CP10,0.11851848647779403,first_10_programs_from_rank10_fit
+10,CP,CP9,CP1,0.053265778716860446,first_10_programs_from_rank10_fit
+10,CP,CP9,CP2,-0.07161801617621298,first_10_programs_from_rank10_fit
+10,CP,CP9,CP3,0.22837763134950262,first_10_programs_from_rank10_fit
+10,CP,CP9,CP4,0.035409048350589244,first_10_programs_from_rank10_fit
+10,CP,CP9,CP5,-0.43864960499264277,first_10_programs_from_rank10_fit
+10,CP,CP9,CP6,0.04017351802346767,first_10_programs_from_rank10_fit
+10,CP,CP9,CP7,0.28588810940072845,first_10_programs_from_rank10_fit
+10,CP,CP9,CP8,0.015439108594590812,first_10_programs_from_rank10_fit
+10,CP,CP9,CP9,0.9999999999999999,first_10_programs_from_rank10_fit
+10,CP,CP9,CP10,0.01822114497113526,first_10_programs_from_rank10_fit
+10,CP,CP10,CP1,-0.20376088286391675,first_10_programs_from_rank10_fit
+10,CP,CP10,CP2,0.3244883598844621,first_10_programs_from_rank10_fit
+10,CP,CP10,CP3,0.0208390164918411,first_10_programs_from_rank10_fit
+10,CP,CP10,CP4,0.0034720741453714314,first_10_programs_from_rank10_fit
+10,CP,CP10,CP5,-0.1304787289885058,first_10_programs_from_rank10_fit
+10,CP,CP10,CP6,0.3192482928567784,first_10_programs_from_rank10_fit
+10,CP,CP10,CP7,-0.2787751227386154,first_10_programs_from_rank10_fit
+10,CP,CP10,CP8,0.11851848647779405,first_10_programs_from_rank10_fit
+10,CP,CP10,CP9,0.018221144971135264,first_10_programs_from_rank10_fit
+10,CP,CP10,CP10,1.0,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE1,0.9999999999999998,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE2,0.2036426757592225,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE3,0.21639844911000003,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE4,0.49763441473547565,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE5,-0.7502539838179095,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE6,0.07037566198244422,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE7,-0.33777202501487585,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE8,-0.33773448567806585,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE9,0.7054289464372352,first_10_programs_from_rank10_fit
+10,VAE,VAE1,VAE10,-0.8610241077624207,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE1,0.20364267575922249,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE2,1.0,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE3,-0.32502206366698905,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE4,-0.30549357827814794,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE5,-0.1608245192906864,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE6,-0.34291594270494985,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE7,0.21771240887927457,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE8,0.25002800850916973,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE9,0.1815379256723592,first_10_programs_from_rank10_fit
+10,VAE,VAE2,VAE10,-0.3767803916501624,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE1,0.21639844911000006,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE2,-0.32502206366698905,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE3,1.0,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE4,0.8161392622627767,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE5,-0.44209533177449944,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE6,0.164064287677791,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE7,0.042417120645996086,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE8,-0.3651566931539697,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE9,0.6066690620870493,first_10_programs_from_rank10_fit
+10,VAE,VAE3,VAE10,-0.0732683123420729,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE1,0.49763441473547565,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE2,-0.3054935782781479,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE3,0.8161392622627768,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE4,0.9999999999999998,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE5,-0.3802395169119574,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE6,-0.09629749185432263,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE7,-0.24557763328351526,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE8,-0.6744726462924698,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE9,0.6294315822463468,first_10_programs_from_rank10_fit
+10,VAE,VAE4,VAE10,-0.3729680672567141,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE1,-0.7502539838179095,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE2,-0.16082451929068636,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE3,-0.44209533177449944,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE4,-0.3802395169119574,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE5,1.0,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE6,-0.32470928933794385,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE7,-0.030117368500673578,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE8,-0.027540628379086794,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE9,-0.8249554177743148,first_10_programs_from_rank10_fit
+10,VAE,VAE5,VAE10,0.6562869497608946,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE1,0.07037566198244422,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE2,-0.3429159427049499,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE3,0.164064287677791,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE4,-0.09629749185432263,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE5,-0.3247092893379439,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE6,1.0,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE7,-0.32767183436198316,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE8,0.03333584323208417,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE9,-0.07416235151729687,first_10_programs_from_rank10_fit
+10,VAE,VAE6,VAE10,0.22615815395733985,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE1,-0.33777202501487585,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE2,0.21771240887927457,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE3,0.042417120645996086,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE4,-0.24557763328351528,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE5,-0.030117368500673578,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE6,-0.3276718343619832,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE7,1.0,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE8,0.7145589515006118,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE9,0.06764644338699329,first_10_programs_from_rank10_fit
+10,VAE,VAE7,VAE10,0.12459909041761762,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE1,-0.33773448567806585,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE2,0.25002800850916973,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE3,-0.3651566931539697,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE4,-0.6744726462924698,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE5,-0.027540628379086794,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE6,0.03333584323208416,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE7,0.7145589515006117,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE8,1.0,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE9,-0.1447461816739637,first_10_programs_from_rank10_fit
+10,VAE,VAE8,VAE10,0.17053541250350474,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE1,0.7054289464372353,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE2,0.1815379256723592,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE3,0.6066690620870493,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE4,0.6294315822463469,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE5,-0.8249554177743147,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE6,-0.07416235151729687,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE7,0.06764644338699327,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE8,-0.1447461816739637,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE9,1.0,first_10_programs_from_rank10_fit
+10,VAE,VAE9,VAE10,-0.683367852006148,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE1,-0.8610241077624207,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE2,-0.3767803916501624,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE3,-0.0732683123420729,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE4,-0.37296806725671416,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE5,0.6562869497608946,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE6,0.22615815395733985,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE7,0.12459909041761763,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE8,0.17053541250350474,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE9,-0.6833678520061481,first_10_programs_from_rank10_fit
+10,VAE,VAE10,VAE10,0.9999999999999999,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE1,0.9999999999999999,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE2,0.36465209481615685,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE3,0.03541023948163845,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE4,0.2996470768394944,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE5,0.006024671221342642,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE6,-0.09476482218210838,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE7,-0.1883944406338841,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE8,0.1861084338769507,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE9,0.0017287211363013787,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE1,CPVAE10,-0.004889141807223283,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE1,0.3646520948161568,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE2,0.9999999999999998,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE3,0.04905780264694462,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE4,0.051614010660103994,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE5,0.1389444680033703,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE6,-0.12608381635222754,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE7,-0.046172479787500775,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE8,0.3208443849930877,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE9,0.3023059370269759,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE2,CPVAE10,-0.036328612289675336,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE1,0.035410239481638454,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE2,0.049057802646944614,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE3,0.9999999999999998,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE4,-0.013672567099632181,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE5,0.20279962570459936,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE6,0.026528792712965637,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE7,-0.12618631088920035,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE8,0.03464961357447025,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE9,0.21805316225919072,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE3,CPVAE10,-0.32142904376129283,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE1,0.2996470768394944,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE2,0.051614010660103994,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE3,-0.01367256709963218,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE4,1.0,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE5,0.06485521649226482,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE6,0.05348206962628258,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE7,-0.26181092439788095,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE8,0.08951193227490076,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE9,0.31578099714781765,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE4,CPVAE10,0.015489298726010002,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE1,0.006024671221342642,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE2,0.1389444680033703,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE3,0.20279962570459936,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE4,0.06485521649226482,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE5,0.9999999999999999,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE6,-0.224065878279511,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE7,0.06456682375633528,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE8,0.1704646863580747,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE9,0.2612650499377381,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE5,CPVAE10,0.11327396996579461,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE1,-0.09476482218210838,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE2,-0.1260838163522275,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE3,0.026528792712965633,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE4,0.05348206962628258,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE5,-0.22406587827951102,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE6,1.0,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE7,-0.022475757754713336,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE8,-0.16673736363475117,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE9,-0.17051158667489175,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE6,CPVAE10,0.1149282420092214,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE1,-0.1883944406338841,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE2,-0.046172479787500775,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE3,-0.12618631088920035,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE4,-0.2618109243978809,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE5,0.06456682375633528,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE6,-0.022475757754713336,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE7,0.9999999999999999,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE8,0.057245117054031555,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE9,0.24711056800242254,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE7,CPVAE10,-0.01706167674009561,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE1,0.18610843387695067,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE2,0.3208443849930877,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE3,0.034649613574470245,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE4,0.08951193227490076,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE5,0.17046468635807474,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE6,-0.16673736363475117,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE7,0.05724511705403155,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE8,0.9999999999999999,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE9,0.37027949941401406,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE8,CPVAE10,-0.03955340061431212,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE1,0.0017287211363013787,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE2,0.3023059370269759,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE3,0.2180531622591907,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE4,0.3157809971478177,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE5,0.2612650499377381,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE6,-0.17051158667489175,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE7,0.24711056800242254,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE8,0.37027949941401406,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE9,0.9999999999999998,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE9,CPVAE10,-0.027437001285274928,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE1,-0.004889141807223283,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE2,-0.036328612289675336,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE3,-0.3214290437612928,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE4,0.015489298726010002,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE5,0.11327396996579461,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE6,0.1149282420092214,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE7,-0.01706167674009561,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE8,-0.03955340061431212,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE9,-0.02743700128527493,first_10_programs_from_rank10_fit
+10,weighted CPVAE,CPVAE10,CPVAE10,1.0,first_10_programs_from_rank10_fit
